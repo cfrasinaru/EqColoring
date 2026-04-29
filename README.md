@@ -1,2 +1,2 @@
 # EqColoring
-Solver for Equitable Coloring Problem
+Set covering-based solver for the Equitable Coloring Problem
