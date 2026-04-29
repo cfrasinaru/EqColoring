@@ -1,0 +1,67 @@
+
+
+{
+  "instanceName" : "queen5_5",
+  "numVertices" : 25,
+  "numEdges" : 160,
+  "density" : 0.53,
+  "knownLowerBound" : 0,
+  "knownUpperBound" : 0,
+  "coloringNumber" : null,
+  "timeLimit" : 900000,
+  "startTime" : "2026-04-25 18:15:55",
+  "endTime" : "2026-04-25 18:15:55",
+  "totalTime" : 94,
+  "initialLowerBound" : 5,
+  "initialUpperBound" : 5,
+  "maxCliqueSize" : 5,
+  "presolveTime" : 16,
+  "results" : [ {
+    "numColors" : 5,
+    "stableSetCount" : 10,
+    "presolveTime" : 31,
+    "solveTime" : 31,
+    "coloring" : "{c(1)=0, c(2)=1, c(3)=2, c(4)=3, c(5)=4, c(6)=2, c(7)=3, c(8)=4, c(9)=0, c(10)=1, c(11)=4, c(12)=0, c(13)=1, c(14)=2, c(15)=3, c(16)=1, c(17)=2, c(18)=3, c(19)=4, c(20)=0, c(21)=3, c(22)=4, c(23)=0, c(24)=1, c(25)=2}",
+    "colorClasses" : "{0=[1, 9, 12, 20, 23], 1=[2, 10, 13, 16, 24], 2=[3, 6, 14, 17, 25], 3=[4, 7, 15, 18, 21], 4=[5, 8, 11, 19, 22]}",
+    "status" : "FEASIBLE"
+  } ],
+  "successResults" : 1,
+  "totalResults" : 1,
+  "avgSolveTime" : 62,
+  "maxSolveTime" : 62,
+  "lowerBound" : 5,
+  "upperBound" : 5
+}
+
+{
+  "instanceName" : "queen5_5",
+  "numVertices" : 25,
+  "numEdges" : 160,
+  "density" : 0.53,
+  "knownLowerBound" : 0,
+  "knownUpperBound" : 0,
+  "coloringNumber" : null,
+  "timeLimit" : 3600000,
+  "startTime" : "2026-04-26 17:48:32",
+  "endTime" : "2026-04-26 17:48:32",
+  "totalTime" : 86,
+  "initialLowerBound" : 5,
+  "initialUpperBound" : 5,
+  "maxCliqueSize" : 5,
+  "presolveTime" : 7,
+  "results" : [ {
+    "numColors" : 5,
+    "stableSetCount" : 10,
+    "presolveTime" : 31,
+    "solveTime" : 32,
+    "coloring" : "{c(1)=0, c(2)=1, c(3)=2, c(4)=3, c(5)=4, c(6)=2, c(7)=3, c(8)=4, c(9)=0, c(10)=1, c(11)=4, c(12)=0, c(13)=1, c(14)=2, c(15)=3, c(16)=1, c(17)=2, c(18)=3, c(19)=4, c(20)=0, c(21)=3, c(22)=4, c(23)=0, c(24)=1, c(25)=2}",
+    "colorClasses" : "{0=[1, 9, 12, 20, 23], 1=[2, 10, 13, 16, 24], 2=[3, 6, 14, 17, 25], 3=[4, 7, 15, 18, 21], 4=[5, 8, 11, 19, 22]}",
+    "status" : "FEASIBLE"
+  } ],
+  "successResults" : 1,
+  "totalResults" : 1,
+  "avgSolveTime" : 63,
+  "maxSolveTime" : 63,
+  "lowerBound" : 5,
+  "upperBound" : 5
+}

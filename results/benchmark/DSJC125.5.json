@@ -1,0 +1,152 @@
+{
+  "instanceName" : "DSJC125.5",
+  "numVertices" : 125,
+  "numEdges" : 3891,
+  "density" : 0.5,
+  "knownLowerBound" : 9,
+  "knownUpperBound" : 17,
+  "coloringNumber" : 17,
+  "timeLimit" : 600000,
+  "startTime" : "2026-04-23 17:41:52",
+  "endTime" : "2026-04-23 18:11:44",
+  "totalTime" : 1792040,
+  "initialLowerBound" : 9,
+  "initialUpperBound" : 22,
+  "maxCliqueSize" : 9,
+  "presolveTime" : 31,
+  "results" : [ {
+    "numColors" : 9,
+    "stableSetCount" : 0,
+    "presolveTime" : 47,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 10,
+    "stableSetCount" : 0,
+    "presolveTime" : 32,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 11,
+    "stableSetCount" : 0,
+    "presolveTime" : 48,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 12,
+    "stableSetCount" : 0,
+    "presolveTime" : 47,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 13,
+    "stableSetCount" : 102,
+    "presolveTime" : 16,
+    "solveTime" : 79,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 14,
+    "stableSetCount" : 2452,
+    "presolveTime" : 0,
+    "solveTime" : 63,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 15,
+    "stableSetCount" : 2452,
+    "presolveTime" : 0,
+    "solveTime" : 65,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 16,
+    "stableSetCount" : 28544,
+    "presolveTime" : 15,
+    "solveTime" : 9043,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 17,
+    "stableSetCount" : 28544,
+    "presolveTime" : 0,
+    "solveTime" : 600372,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TIMEOUT"
+  }, {
+    "numColors" : 20,
+    "stableSetCount" : 142514,
+    "presolveTime" : 0,
+    "solveTime" : 50604,
+    "coloring" : "{c(1)=0, c(2)=1, c(3)=2, c(4)=3, c(5)=4, c(6)=5, c(7)=6, c(8)=7, c(9)=8, c(10)=9, c(11)=10, c(12)=9, c(13)=11, c(14)=12, c(15)=13, c(16)=14, c(17)=1, c(18)=4, c(19)=0, c(20)=13, c(21)=12, c(22)=15, c(23)=6, c(24)=1, c(25)=16, c(26)=2, c(27)=7, c(28)=13, c(29)=2, c(30)=17, c(31)=5, c(32)=12, c(33)=17, c(34)=11, c(35)=5, c(36)=16, c(37)=11, c(38)=18, c(39)=10, c(40)=5, c(41)=7, c(42)=6, c(43)=0, c(44)=15, c(45)=19, c(46)=15, c(47)=18, c(48)=13, c(49)=7, c(50)=10, c(51)=16, c(52)=1, c(53)=3, c(54)=3, c(55)=17, c(56)=2, c(57)=19, c(58)=4, c(59)=17, c(60)=17, c(61)=11, c(62)=14, c(63)=0, c(64)=14, c(65)=7, c(66)=15, c(67)=15, c(68)=14, c(69)=6, c(70)=8, c(71)=14, c(72)=18, c(73)=13, c(74)=18, c(75)=3, c(76)=10, c(77)=2, c(78)=9, c(79)=11, c(80)=13, c(81)=15, c(82)=9, c(83)=4, c(84)=10, c(85)=6, c(86)=1, c(87)=16, c(88)=18, c(89)=0, c(90)=16, c(91)=19, c(92)=16, c(93)=18, c(94)=7, c(95)=19, c(96)=10, c(97)=19, c(98)=19, c(99)=9, c(100)=3, c(101)=11, c(102)=2, c(103)=12, c(104)=11, c(105)=5, c(106)=14, c(107)=3, c(108)=5, c(109)=8, c(110)=8, c(111)=12, c(112)=8, c(113)=4, c(114)=6, c(115)=9, c(116)=17, c(117)=12, c(118)=0, c(119)=18, c(120)=17, c(121)=1, c(122)=5, c(123)=4, c(124)=15, c(125)=8}",
+    "colorClasses" : "{0=[1, 19, 43, 63, 89, 118], 1=[2, 17, 24, 52, 86, 121], 2=[3, 26, 29, 56, 77, 102], 3=[4, 53, 54, 75, 100, 107], 4=[5, 18, 58, 83, 113, 123], 5=[6, 31, 35, 40, 105, 108, 122], 6=[7, 23, 42, 69, 85, 114], 7=[8, 27, 41, 49, 65, 94], 8=[9, 70, 109, 110, 112, 125], 9=[10, 12, 78, 82, 99, 115], 10=[11, 39, 50, 76, 84, 96], 11=[13, 34, 37, 61, 79, 101, 104], 12=[14, 21, 32, 103, 111, 117], 13=[15, 20, 28, 48, 73, 80], 14=[16, 62, 64, 68, 71, 106], 15=[22, 44, 46, 66, 67, 81, 124], 16=[25, 36, 51, 87, 90, 92], 17=[30, 33, 55, 59, 60, 116, 120], 18=[38, 47, 72, 74, 88, 93, 119], 19=[45, 57, 91, 95, 97, 98]}",
+    "status" : "FEASIBLE"
+  }, {
+    "numColors" : 18,
+    "stableSetCount" : 142514,
+    "presolveTime" : 0,
+    "solveTime" : 611361,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TIMEOUT"
+  }, {
+    "numColors" : 19,
+    "stableSetCount" : 142514,
+    "presolveTime" : 0,
+    "solveTime" : 520169,
+    "coloring" : "{c(1)=0, c(2)=1, c(3)=2, c(4)=3, c(5)=4, c(6)=5, c(7)=3, c(8)=6, c(9)=6, c(10)=7, c(11)=8, c(12)=9, c(13)=10, c(14)=10, c(15)=3, c(16)=11, c(17)=12, c(18)=12, c(19)=0, c(20)=6, c(21)=13, c(22)=2, c(23)=4, c(24)=12, c(25)=5, c(26)=10, c(27)=9, c(28)=3, c(29)=8, c(30)=14, c(31)=2, c(32)=15, c(33)=5, c(34)=4, c(35)=2, c(36)=16, c(37)=17, c(38)=1, c(39)=6, c(40)=4, c(41)=15, c(42)=0, c(43)=0, c(44)=14, c(45)=16, c(46)=7, c(47)=1, c(48)=1, c(49)=3, c(50)=13, c(51)=2, c(52)=2, c(53)=8, c(54)=14, c(55)=7, c(56)=15, c(57)=5, c(58)=9, c(59)=17, c(60)=17, c(61)=18, c(62)=17, c(63)=5, c(64)=3, c(65)=16, c(66)=17, c(67)=14, c(68)=13, c(69)=4, c(70)=15, c(71)=12, c(72)=8, c(73)=10, c(74)=18, c(75)=4, c(76)=7, c(77)=16, c(78)=11, c(79)=18, c(80)=10, c(81)=4, c(82)=11, c(83)=12, c(84)=17, c(85)=0, c(86)=14, c(87)=5, c(88)=9, c(89)=15, c(90)=16, c(91)=3, c(92)=10, c(93)=6, c(94)=6, c(95)=16, c(96)=18, c(97)=11, c(98)=7, c(99)=7, c(100)=8, c(101)=18, c(102)=13, c(103)=15, c(104)=11, c(105)=17, c(106)=10, c(107)=8, c(108)=11, c(109)=1, c(110)=1, c(111)=0, c(112)=1, c(113)=5, c(114)=11, c(115)=13, c(116)=18, c(117)=9, c(118)=18, c(119)=14, c(120)=9, c(121)=13, c(122)=12, c(123)=2, c(124)=15, c(125)=13}",
+    "colorClasses" : "{0=[1, 19, 42, 43, 85, 111], 1=[2, 38, 47, 48, 109, 110, 112], 2=[3, 22, 31, 35, 51, 52, 123], 3=[4, 7, 15, 28, 49, 64, 91], 4=[5, 23, 34, 40, 69, 75, 81], 5=[6, 25, 33, 57, 63, 87, 113], 6=[8, 9, 20, 39, 93, 94], 7=[10, 46, 55, 76, 98, 99], 8=[11, 29, 53, 72, 100, 107], 9=[12, 27, 58, 88, 117, 120], 10=[13, 14, 26, 73, 80, 92, 106], 11=[16, 78, 82, 97, 104, 108, 114], 12=[17, 18, 24, 71, 83, 122], 13=[21, 50, 68, 102, 115, 121, 125], 14=[30, 44, 54, 67, 86, 119], 15=[32, 41, 56, 70, 89, 103, 124], 16=[36, 45, 65, 77, 90, 95], 17=[37, 59, 60, 62, 66, 84, 105], 18=[61, 74, 79, 96, 101, 116, 118]}",
+    "status" : "FEASIBLE"
+  } ],
+  "successResults" : 10,
+  "totalResults" : 12,
+  "averageSolveTime" : 58022,
+  "lowerBound" : 17,
+  "upperBound" : 19
+}
+
+{
+  "instanceName" : "DSJC125.5",
+  "numVertices" : 125,
+  "numEdges" : 3891,
+  "density" : 0.5,
+  "knownLowerBound" : 9,
+  "knownUpperBound" : 17,
+  "coloringNumber" : 17,
+  "timeLimit" : 3600000,
+  "startTime" : "2026-04-27 07:20:20",
+  "endTime" : "2026-04-27 08:20:21",
+  "totalTime" : 3600529,
+  "initialLowerBound" : 17,
+  "initialUpperBound" : 17,
+  "maxCliqueSize" : 9,
+  "presolveTime" : 31,
+  "results" : [ {
+    "numColors" : 17,
+    "stableSetCount" : 0,
+    "presolveTime" : 120,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TIMEOUT"
+  } ],
+  "successResults" : 0,
+  "totalResults" : 1,
+  "avgSolveTime" : 0,
+  "maxSolveTime" : 0,
+  "lowerBound" : 17,
+  "upperBound" : 17
+}

@@ -1,0 +1,151 @@
+{"name":"C2000.5", "lb":12, "ub":183, "chi":0}
+{"name":"C2000.9", "lb":45, "ub":468, "chi":0}
+
+{"name":"DSJC125.5", "lb":9, "ub":17,  "chi":17}
+{"name":"DSJC125.9", "lb":43, "ub":44, "chi":44}
+{"name":"DSJC250.5", "lb":26, "ub":29, "chi":26}
+{"name":"DSJC250.9", "lb":63, "ub":72, "chi":72}
+{"name":"DSJC500.5", "lb":13, "ub":51, "chi":17}
+{"name":"DSJC500.9", "lb":123, "ub":128, "chi":123}
+{"name":"DSJC1000.5","lb":19,"ub":95, "chi":18}
+{"name":"DSJC1000.9","lb":201, "ub":251, "chi":215}
+--{"name":"DSJR500.5", "lb":120, "ub":124, "chi":122}
+
+{"name":"flat300_20_0", "lb":11, "ub":34,  "chi":20}
+{"name":"flat300_26_0", "lb":0, "ub":0,  "chi":26}
+{"name":"flat300_28_0", "lb":28, "ub":32, "chi":28}
+{"name":"flat1000_50_0", "lb":11, "ub":92,  "chi":50}
+{"name":"flat1000_60_0", "lb":11, "ub":93, "chi":60}
+{"name":"flat1000_76_0", "lb":20, "ub":93, "chi":76}
+
+{"name":"queen5_5", "lb":5, "ub":5, "chi": 5}
+{"name":"queen6_6", "lb":7, "ub":7, "chi": 7}
+{"name":"queen7_7", "lb":7, "ub":7, "chi": 7}
+
+{"name":"queen8_8", "lb":9, "ub":9, "chi": 9}
+{"name":"queen8_12", "lb":12, "ub":12, "chi": 12}
+{"name":"queen9_9", "lb":9, "ub":10, "chi": 10}
+{"name":"queen10_10", "lb":10, "ub":11}
+{"name":"queen11_11", "lb":0, "ub":0, "chi": 11}
+{"name":"queen12_12", "lb":12, "ub":0}
+--{"name":"queen13_13", "lb":13, "ub":0}
+--{"name":"queen14_14", "lb":14, "ub":0}
+--{"name":"queen15_15", "lb":15, "ub":0}
+--{"name":"queen16_16", "lb":16, "ub":0}
+
+{"name":"R125.5", "lb":25, "ub":36, "chi":36}
+{"name":"R250.5", "lb":36, "ub":65, "chi":65}
+{"name":"R1000.5", "lb":201, "ub":247, "chi":234}
+
+--{"name":"school1", "lb":15, "ub":15, "chi":14}
+--{"name":"school1_nsh", "lb":14, "ub":14, "chi":14}
+
+{"name":"latin_square_10", "lb":90, "ub":103, "chi":90}
+{"name":"miles1500", "lb":73, "ub":73, "chi":73}
+
+
+--{"name":"1-FullIns_3", "lb":4, "ub":4}
+--{"name":"1-FullIns_4", "lb":5, "ub":5}
+--{"name":"1-FullIns_5", "lb":0, "ub":0}
+--{"name":"2-FullIns_3", "lb":5, "ub":5}
+--{"name":"2-FullIns_4", "lb":0, "ub":0}
+--{"name":"2-FullIns_5", "lb":0, "ub":0}
+--{"name":"3-FullIns_3", "lb":6, "ub":6}
+--{"name":"3-FullIns_4", "lb":0, "ub":0}
+--{"name":"3-FullIns_5", "lb":0, "ub":0}
+--{"name":"4-FullIns_3", "lb":7, "ub":7, "chi":7, "best":7}
+--{"name":"4-FullIns_4", "lb":6, "ub":8, "lbo":6, "chi":8, "best":8}
+--{"name":"4-FullIns_5", "lb":6, "ub":9, "lbo":6, "chi":9, "best":9}
+--{"name":"5-FullIns_3", "lb":8, "ub":8}
+--{"name":"5-FullIns_4", "lb":0, "ub":0}
+
+--{"name":"1-Insertions_4", "lb":0, "ub":0}
+--{"name":"1-Insertions_5", "lb":0, "ub":0}
+--{"name":"1-Insertions_6", "lb":3, "ub":7, "lbo":3, "chi":7, "best":7}
+--{"name":"2-Insertions_3", "lb":0, "ub":0}
+--{"name":"2-Insertions_4", "lb":0, "ub":0}
+--{"name":"2-Insertions_5", "lb":3, "ub":6, "lbo":3, "chi":4, "best":6}
+--{"name":"3-Insertions_3", "lb":0, "ub":0}
+--{"name":"3-Insertions_4", "lb":0, "ub":0}
+--{"name":"3-Insertions_5", "lb":3, "ub":6, "chi":4, "best":6}
+--{"name":"4-Insertions_3", "lb":0, "ub":0}
+--{"name":"4-Insertions_4", "lb":0, "ub":0}
+
+--{"name":"abb313GPIA", "lb":0, "ub":0}
+--{"name":"ash331GPIA", "lb":4, "ub":4, "chi":4, "best":4}
+--{"name":"ash608GPIA", "lb":3, "ub":4, "chi":4, "best":4}
+--{"name":"ash958GPIA", "lb":3, "ub":4, "chi":4, "best":4}
+
+--{"name":"fpsol2.i.1", "lb":65, "ub":65, "chi":65, "best":65}
+--{"name":"fpsol2.i.2", "lb":47, "ub":47, "chi":30, "best":47}
+--{"name":"fpsol2.i.3", "lb":55, "ub":55, "chi":30, "best":55}
+
+--{"name":"inithx.i.1", "lb":54, "ub":54, "chi":54, "best":54}
+--{"name":"inithx.i.2", "lb":30, "ub":93, "lbo":30, "chi":31, "best":35}
+--{"name":"inithx.i.3", "lb":0, "ub":0, "lbo":29, "chi":31, "best":36}
+
+
+--{"name":"le450_5a", "lb":5, "ub":5, "chi":5, "best":5}
+--{"name":"le450_5b", "lb":5, "ub":5, "chi":5, "best":5}
+--{"name":"le450_5c", "lb":0, "ub":0, "lbo":5, "chi":5, "best":5}
+--{"name":"le450_5d", "lb":5, "ub":8, "chi":5, "best":5}
+--{"name":"le450_15a", "lb":15, "ub":15, "chi":15, "best":15}
+--{"name":"le450_15b", "lb":15, "ub":15, "chi":15, "best":15}
+--{"name":"le450_15c", "lb":0, "ub":0, "lbo":15, "chi":15, "best":15}
+--{"name":"le450_15d", "lb":15, "ub":16, "chi":15, "best":15}
+--{"name":"le450_25a", "lb":25, "ub":25, "chi":25, "best":25}
+--{"name":"le450_25b", "lb":25, "ub":25, "chi":25, "best":25}
+--{"name":"le450_25c", "lb":0, "ub":0, "lbo":22, "chi":25, "best":26}
+--{"name":"le450_25d", "lb":25, "ub":27, "lbo":25, "chi":25, "best":27}
+
+--{"name":"miles250", "lb":0, "ub":0}
+--{"name":"miles500", "lb":0, "ub":0}
+--{"name":"miles750", "lb":31, "ub":31}
+--{"name":"miles1000", "lb":42, "ub":42}
+
+
+--{"name":"mug88_1", "lb":4, "ub":4}
+--{"name":"mug88_25", "lb":4, "ub":4}
+--{"name":"mug100_1", "lb":4, "ub":4}
+--{"name":"mug100_25", "lb":4, "ub":4}
+
+--{"name":"mulsol.i.1", "lb":49, "ub":49, "chi":49, "best":49}
+--{"name":"mulsol.i.2", "lb":34, "ub":39, "lbo":32, "chi":31, "best":36}
+--{"name":"mulsol.i.3", "lb":0, "ub":0}
+--{"name":"mulsol.i.4", "lb":0, "ub":0}
+--{"name":"mulsol.i.5", "lb":0, "ub":0}
+
+--{"name":"myciel3", "lb":0, "ub":0}
+--{"name":"myciel4", "lb":5, "ub":5}
+--{"name":"myciel5", "lb":6, "ub":6}
+--{"name":"myciel6", "lb":7, "ub":7, "chi":7, "best":7}
+--{"name":"myciel7", "lb":8, "ub":8, "chi":8, "best":8}
+
+--{"name":"R125.1", "lb":0, "ub":0, "lbo":5, "chi":5, "best":5}
+--{"name":"R250.1", "lb":0, "ub":0, "lbo":5, "chi":8, "best":8}
+--{"name":"R1000.1", "lb":0, "ub":0, "chi":20, "best":20}
+
+--{"name":"wap01a", "lb":41, "ub":46, "chi":41, "best":42}
+--{"name":"wap02a", "lb":40, "ub":44, "lbo":22, "chi":40, "best":41}
+--{"name":"wap03a", "lb":40, "ub":50, "chi":40, "best":44}
+--{"name":"wap04a", "lb":0, "ub":0, "chi":40, "best":43}
+--{"name":"wap05a", "lb":0, "ub":0, "lbo":19, "chi":50, "best":50}
+--{"name":"wap06a", "lb":0, "ub":0, "lbo":31, "chi":40, "best":41}
+--{"name":"wap07a", "lb":0, "ub":0, "lbo":32, "chi":40, "best":42}
+--{"name":"wap08a", "lb":0, "ub":0, "lbo":28, "chi":40, "best":42}
+
+--{"name":"zeroin.i.1", "lb":49, "ub":49, "chi":49, "best":49}
+--{"name":"zeroin.i.2", "lb":36, "ub":36, "chi":30, "best":36}
+--{"name":"zeroin.i.3", "lb":36, "ub":36, "chi":30, "best":36}
+
+
+--{"name":"anna", "lb":11, "ub":11}
+--{"name":"david", "lb":30, "ub":30}
+--{"name":"games120", "lb":9, "ub":9}
+--{"name":"homer", "lb":13, "ub":13}
+--{"name":"huck", "lb":11, "ub":11}
+--{"name":"jean", "lb":10, "ub":10}
+
+
+--{"name":"will199GPIA", "lb":7, "ub":7}
+

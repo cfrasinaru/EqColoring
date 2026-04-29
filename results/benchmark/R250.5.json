@@ -1,0 +1,58 @@
+
+
+{
+  "instanceName" : "R250.5",
+  "numVertices" : 250,
+  "numEdges" : 14849,
+  "density" : 0.48,
+  "knownLowerBound" : 36,
+  "knownUpperBound" : 65,
+  "coloringNumber" : 65,
+  "timeLimit" : 3600000,
+  "startTime" : "2026-04-27 14:27:31",
+  "endTime" : "2026-04-27 14:27:32",
+  "totalTime" : 1057,
+  "initialLowerBound" : 65,
+  "initialUpperBound" : 71,
+  "maxCliqueSize" : 65,
+  "presolveTime" : 140,
+  "results" : [ {
+    "numColors" : 65,
+    "stableSetCount" : 1000001,
+    "presolveTime" : 127,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  }, {
+    "numColors" : 68,
+    "stableSetCount" : 1000001,
+    "presolveTime" : 2,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  }, {
+    "numColors" : 70,
+    "stableSetCount" : 1000001,
+    "presolveTime" : 0,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  }, {
+    "numColors" : 71,
+    "stableSetCount" : 1000001,
+    "presolveTime" : 0,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  } ],
+  "successResults" : 0,
+  "totalResults" : 4,
+  "avgSolveTime" : 0,
+  "maxSolveTime" : 0,
+  "lowerBound" : 65,
+  "upperBound" : 71
+}

@@ -1,0 +1,322 @@
+
+
+{
+  "instanceName" : "DSJC500.5",
+  "numVertices" : 500,
+  "numEdges" : 62624,
+  "density" : 0.5,
+  "knownLowerBound" : 13,
+  "knownUpperBound" : 51,
+  "coloringNumber" : 17,
+  "timeLimit" : 600000,
+  "startTime" : "2026-04-24 09:29:58",
+  "endTime" : "2026-04-24 09:56:24",
+  "totalTime" : 1585514,
+  "initialLowerBound" : 12,
+  "initialUpperBound" : 66,
+  "maxCliqueSize" : 12,
+  "presolveTime" : 402,
+  "results" : [ {
+    "numColors" : 12,
+    "stableSetCount" : 0,
+    "presolveTime" : 498,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 13,
+    "stableSetCount" : 0,
+    "presolveTime" : 888,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 14,
+    "stableSetCount" : 0,
+    "presolveTime" : 1657,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 15,
+    "stableSetCount" : 0,
+    "presolveTime" : 2271,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 16,
+    "stableSetCount" : 0,
+    "presolveTime" : 3259,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 17,
+    "stableSetCount" : 0,
+    "presolveTime" : 4461,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 18,
+    "stableSetCount" : 0,
+    "presolveTime" : 6234,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 19,
+    "stableSetCount" : 0,
+    "presolveTime" : 7620,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 20,
+    "stableSetCount" : 0,
+    "presolveTime" : 10637,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 21,
+    "stableSetCount" : 0,
+    "presolveTime" : 12382,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 22,
+    "stableSetCount" : 0,
+    "presolveTime" : 19242,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 23,
+    "stableSetCount" : 0,
+    "presolveTime" : 20710,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 24,
+    "stableSetCount" : 0,
+    "presolveTime" : 23739,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 25,
+    "stableSetCount" : 0,
+    "presolveTime" : 22790,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 26,
+    "stableSetCount" : 0,
+    "presolveTime" : 22782,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 27,
+    "stableSetCount" : 0,
+    "presolveTime" : 26120,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 28,
+    "stableSetCount" : 0,
+    "presolveTime" : 29660,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 29,
+    "stableSetCount" : 0,
+    "presolveTime" : 29922,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 30,
+    "stableSetCount" : 0,
+    "presolveTime" : 33724,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 31,
+    "stableSetCount" : 0,
+    "presolveTime" : 33733,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 32,
+    "stableSetCount" : 0,
+    "presolveTime" : 39339,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 33,
+    "stableSetCount" : 0,
+    "presolveTime" : 39400,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 34,
+    "stableSetCount" : 0,
+    "presolveTime" : 45193,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 35,
+    "stableSetCount" : 0,
+    "presolveTime" : 44910,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 36,
+    "stableSetCount" : 0,
+    "presolveTime" : 50532,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 37,
+    "stableSetCount" : 0,
+    "presolveTime" : 50803,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 38,
+    "stableSetCount" : 0,
+    "presolveTime" : 50638,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 39,
+    "stableSetCount" : 5333,
+    "presolveTime" : 96,
+    "solveTime" : 59108,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 40,
+    "stableSetCount" : 5333,
+    "presolveTime" : 96,
+    "solveTime" : 58716,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 41,
+    "stableSetCount" : 5333,
+    "presolveTime" : 111,
+    "solveTime" : 58978,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 42,
+    "stableSetCount" : 273175,
+    "presolveTime" : 32,
+    "solveTime" : 99690,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 43,
+    "stableSetCount" : 273175,
+    "presolveTime" : 32,
+    "solveTime" : 675064,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TIMEOUT"
+  }, {
+    "numColors" : 55,
+    "stableSetCount" : 68916894,
+    "presolveTime" : 0,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  }, {
+    "numColors" : 61,
+    "stableSetCount" : 368092717,
+    "presolveTime" : 0,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  }, {
+    "numColors" : 64,
+    "stableSetCount" : 956533450,
+    "presolveTime" : 0,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  }, {
+    "numColors" : 65,
+    "stableSetCount" : 956533450,
+    "presolveTime" : 0,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  }, {
+    "numColors" : 66,
+    "stableSetCount" : 956533450,
+    "presolveTime" : 0,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  } ],
+  "successResults" : 31,
+  "totalResults" : 37,
+  "avgSolveTime" : 29353,
+  "maxSolveTime" : 99722,
+  "lowerBound" : 43,
+  "upperBound" : 66
+}

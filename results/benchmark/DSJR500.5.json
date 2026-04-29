@@ -1,0 +1,381 @@
+
+
+{
+  "instanceName" : "DSJR500.5",
+  "numVertices" : 500,
+  "numEdges" : 58862,
+  "density" : 0.47,
+  "knownLowerBound" : 120,
+  "knownUpperBound" : 124,
+  "coloringNumber" : 122,
+  "timeLimit" : 900000,
+  "startTime" : "2026-04-25 13:47:37",
+  "endTime" : "2026-04-25 13:47:37",
+  "totalTime" : 334,
+  "initialLowerBound" : 117,
+  "initialUpperBound" : 133,
+  "maxCliqueSize" : 117,
+  "presolveTime" : 302,
+  "results" : [ {
+    "numColors" : 117,
+    "stableSetCount" : 486988249,
+    "presolveTime" : 0,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  }, {
+    "numColors" : 125,
+    "stableSetCount" : 55852120,
+    "presolveTime" : 0,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  }, {
+    "numColors" : 129,
+    "stableSetCount" : 58903146,
+    "presolveTime" : 0,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  }, {
+    "numColors" : 131,
+    "stableSetCount" : 58903146,
+    "presolveTime" : 0,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  }, {
+    "numColors" : 132,
+    "stableSetCount" : 58903146,
+    "presolveTime" : 0,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  }, {
+    "numColors" : 133,
+    "stableSetCount" : 58903146,
+    "presolveTime" : 0,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  } ],
+  "successResults" : 0,
+  "totalResults" : 6,
+  "avgSolveTime" : 0,
+  "maxSolveTime" : 0,
+  "lowerBound" : 117,
+  "upperBound" : 133
+}
+
+{
+  "instanceName" : "DSJR500.5",
+  "numVertices" : 500,
+  "numEdges" : 58862,
+  "density" : 0.47,
+  "knownLowerBound" : 120,
+  "knownUpperBound" : 124,
+  "coloringNumber" : 122,
+  "timeLimit" : 900000,
+  "startTime" : "2026-04-25 13:48:27",
+  "endTime" : "2026-04-25 13:48:27",
+  "totalTime" : 302,
+  "initialLowerBound" : 117,
+  "initialUpperBound" : 133,
+  "maxCliqueSize" : 117,
+  "presolveTime" : 302,
+  "results" : [ {
+    "numColors" : 117,
+    "stableSetCount" : 486988249,
+    "presolveTime" : 0,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  }, {
+    "numColors" : 125,
+    "stableSetCount" : 55852120,
+    "presolveTime" : 0,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  }, {
+    "numColors" : 129,
+    "stableSetCount" : 58903146,
+    "presolveTime" : 0,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  }, {
+    "numColors" : 131,
+    "stableSetCount" : 58903146,
+    "presolveTime" : 0,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  }, {
+    "numColors" : 132,
+    "stableSetCount" : 58903146,
+    "presolveTime" : 0,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  }, {
+    "numColors" : 133,
+    "stableSetCount" : 58903146,
+    "presolveTime" : 0,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  } ],
+  "successResults" : 0,
+  "totalResults" : 6,
+  "avgSolveTime" : 0,
+  "maxSolveTime" : 0,
+  "lowerBound" : 117,
+  "upperBound" : 133
+}
+
+{
+  "instanceName" : "DSJR500.5",
+  "numVertices" : 500,
+  "numEdges" : 58862,
+  "density" : 0.47,
+  "knownLowerBound" : null,
+  "knownUpperBound" : null,
+  "coloringNumber" : null,
+  "timeLimit" : 900000,
+  "startTime" : "2026-04-25 18:23:37",
+  "endTime" : "2026-04-25 18:23:39",
+  "totalTime" : 1674,
+  "initialLowerBound" : 117,
+  "initialUpperBound" : 133,
+  "maxCliqueSize" : 117,
+  "presolveTime" : 308,
+  "results" : [ {
+    "numColors" : 117,
+    "stableSetCount" : 1000001,
+    "presolveTime" : 242,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  }, {
+    "numColors" : 125,
+    "stableSetCount" : 1000001,
+    "presolveTime" : 0,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  }, {
+    "numColors" : 129,
+    "stableSetCount" : 1000001,
+    "presolveTime" : 16,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  }, {
+    "numColors" : 131,
+    "stableSetCount" : 1000001,
+    "presolveTime" : 0,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  }, {
+    "numColors" : 132,
+    "stableSetCount" : 1000001,
+    "presolveTime" : 0,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  }, {
+    "numColors" : 133,
+    "stableSetCount" : 1000001,
+    "presolveTime" : 0,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  } ],
+  "successResults" : 0,
+  "totalResults" : 6,
+  "avgSolveTime" : 0,
+  "maxSolveTime" : 0,
+  "lowerBound" : 117,
+  "upperBound" : 133
+}
+
+{
+  "instanceName" : "DSJR500.5",
+  "numVertices" : 500,
+  "numEdges" : 58862,
+  "density" : 0.47,
+  "knownLowerBound" : null,
+  "knownUpperBound" : null,
+  "coloringNumber" : null,
+  "timeLimit" : 10000,
+  "startTime" : "2026-04-26 17:51:44",
+  "endTime" : "2026-04-26 17:51:47",
+  "totalTime" : 3583,
+  "initialLowerBound" : 117,
+  "initialUpperBound" : 133,
+  "maxCliqueSize" : 117,
+  "presolveTime" : 284,
+  "results" : [ {
+    "numColors" : 117,
+    "stableSetCount" : 1000001,
+    "presolveTime" : 241,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  }, {
+    "numColors" : 118,
+    "stableSetCount" : 1000001,
+    "presolveTime" : 0,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  }, {
+    "numColors" : 119,
+    "stableSetCount" : 1000001,
+    "presolveTime" : 0,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  }, {
+    "numColors" : 120,
+    "stableSetCount" : 1000001,
+    "presolveTime" : 0,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  }, {
+    "numColors" : 121,
+    "stableSetCount" : 1000001,
+    "presolveTime" : 0,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  }, {
+    "numColors" : 122,
+    "stableSetCount" : 1000001,
+    "presolveTime" : 15,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  }, {
+    "numColors" : 123,
+    "stableSetCount" : 1000001,
+    "presolveTime" : 16,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  }, {
+    "numColors" : 124,
+    "stableSetCount" : 1000001,
+    "presolveTime" : 17,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  }, {
+    "numColors" : 125,
+    "stableSetCount" : 1000001,
+    "presolveTime" : 16,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  }, {
+    "numColors" : 126,
+    "stableSetCount" : 1000001,
+    "presolveTime" : 0,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  }, {
+    "numColors" : 127,
+    "stableSetCount" : 1000001,
+    "presolveTime" : 0,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  }, {
+    "numColors" : 128,
+    "stableSetCount" : 1000001,
+    "presolveTime" : 0,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  }, {
+    "numColors" : 129,
+    "stableSetCount" : 1000001,
+    "presolveTime" : 0,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  }, {
+    "numColors" : 130,
+    "stableSetCount" : 1000001,
+    "presolveTime" : 0,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  }, {
+    "numColors" : 131,
+    "stableSetCount" : 1000001,
+    "presolveTime" : 16,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  }, {
+    "numColors" : 132,
+    "stableSetCount" : 1000001,
+    "presolveTime" : 0,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  }, {
+    "numColors" : 133,
+    "stableSetCount" : 1000001,
+    "presolveTime" : 0,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  } ],
+  "successResults" : 0,
+  "totalResults" : 17,
+  "avgSolveTime" : 0,
+  "maxSolveTime" : 0,
+  "lowerBound" : 117,
+  "upperBound" : 133
+}

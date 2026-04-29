@@ -1,0 +1,4 @@
+Density, ColorClassSize, NumColors, NumVertices, NumEdges, NumStableSets, StableCreationTime, SetCoveringTime, AssignmentTime
+0.5, 10, 10, 100, 2253, 88, 0.07, 0.1, 1.05
+0.5, 10, 20, 200, 9494, 7249, 0.44, 0.82, -1.0
+0.5, 10, 30, 300, 21724, 180053, 4.24, -1.0, -1.0

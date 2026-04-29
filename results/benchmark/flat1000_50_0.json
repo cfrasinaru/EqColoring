@@ -1,0 +1,163 @@
+
+
+{
+  "instanceName" : "flat1000_50_0",
+  "numVertices" : 1000,
+  "numEdges" : 245000,
+  "density" : 0.49,
+  "knownLowerBound" : 11,
+  "knownUpperBound" : 92,
+  "coloringNumber" : null,
+  "timeLimit" : 900000,
+  "startTime" : "2026-04-26 04:36:04",
+  "endTime" : "2026-04-26 05:44:23",
+  "totalTime" : 4098866,
+  "initialLowerBound" : 13,
+  "initialUpperBound" : 114,
+  "maxCliqueSize" : 13,
+  "presolveTime" : 2457,
+  "results" : [ {
+    "numColors" : 13,
+    "stableSetCount" : 0,
+    "presolveTime" : 9915,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 14,
+    "stableSetCount" : 0,
+    "presolveTime" : 26837,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 15,
+    "stableSetCount" : 0,
+    "presolveTime" : 63590,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 16,
+    "stableSetCount" : 0,
+    "presolveTime" : 101549,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 17,
+    "stableSetCount" : 0,
+    "presolveTime" : 172879,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 18,
+    "stableSetCount" : 0,
+    "presolveTime" : 259109,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 19,
+    "stableSetCount" : 0,
+    "presolveTime" : 370984,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 20,
+    "stableSetCount" : 0,
+    "presolveTime" : 571821,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 21,
+    "stableSetCount" : 0,
+    "presolveTime" : 729246,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 22,
+    "stableSetCount" : 0,
+    "presolveTime" : 870192,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 23,
+    "stableSetCount" : 0,
+    "presolveTime" : 920258,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TIMEOUT"
+  } ],
+  "successResults" : 10,
+  "totalResults" : 11,
+  "avgSolveTime" : 317612,
+  "maxSolveTime" : 870192,
+  "lowerBound" : 23,
+  "upperBound" : 114
+}
+
+{
+  "instanceName" : "flat1000_50_0",
+  "numVertices" : 1000,
+  "numEdges" : 245000,
+  "density" : 0.49,
+  "knownLowerBound" : 11,
+  "knownUpperBound" : 92,
+  "coloringNumber" : 50,
+  "timeLimit" : 3600000,
+  "startTime" : "2026-04-26 12:26:27",
+  "endTime" : "2026-04-26 13:33:22",
+  "totalTime" : 4014547,
+  "initialLowerBound" : 23,
+  "initialUpperBound" : 25,
+  "maxCliqueSize" : 13,
+  "presolveTime" : 1694,
+  "results" : [ {
+    "numColors" : 23,
+    "stableSetCount" : 0,
+    "presolveTime" : 1032901,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 24,
+    "stableSetCount" : 0,
+    "presolveTime" : 1323173,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 25,
+    "stableSetCount" : 0,
+    "presolveTime" : 1656757,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  } ],
+  "successResults" : 3,
+  "totalResults" : 3,
+  "avgSolveTime" : 1337610,
+  "maxSolveTime" : 1656757,
+  "lowerBound" : 26,
+  "upperBound" : 0
+}

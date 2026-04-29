@@ -1,0 +1,11 @@
+ro\uaic\info\eqcol\Instance.class
+ro\uaic\info\eqcol\StableSetIterator$Node.class
+ro\uaic\info\eqcol\GurobiColoringBase.class
+ro\uaic\info\eqcol\EqColoringSolver.class
+ro\uaic\info\eqcol\AssignmentVsStable.class
+ro\uaic\info\eqcol\StableSetIterator.class
+ro\uaic\info\eqcol\Status.class
+ro\uaic\info\eqcol\GurobiAssignmentSolver.class
+ro\uaic\info\eqcol\Result.class
+ro\uaic\info\eqcol\BktStableSolver1.class
+ro\uaic\info\eqcol\Main.class

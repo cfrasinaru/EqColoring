@@ -1,0 +1,155 @@
+
+
+{
+  "instanceName" : "DSJC1000.5",
+  "numVertices" : 1000,
+  "numEdges" : 249826,
+  "density" : 0.5,
+  "knownLowerBound" : 19,
+  "knownUpperBound" : 95,
+  "coloringNumber" : 18,
+  "timeLimit" : 900000,
+  "startTime" : "2026-04-25 10:08:02",
+  "endTime" : "2026-04-25 10:57:40",
+  "totalTime" : 2977661,
+  "initialLowerBound" : 14,
+  "initialUpperBound" : 0,
+  "maxCliqueSize" : 14,
+  "presolveTime" : 1766,
+  "results" : [ {
+    "numColors" : 14,
+    "stableSetCount" : 0,
+    "presolveTime" : 9409,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 15,
+    "stableSetCount" : 0,
+    "presolveTime" : 19884,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 16,
+    "stableSetCount" : 0,
+    "presolveTime" : 35630,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 17,
+    "stableSetCount" : 0,
+    "presolveTime" : 67423,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 18,
+    "stableSetCount" : 0,
+    "presolveTime" : 116736,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 19,
+    "stableSetCount" : 0,
+    "presolveTime" : 157163,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 20,
+    "stableSetCount" : 0,
+    "presolveTime" : 220771,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 21,
+    "stableSetCount" : 0,
+    "presolveTime" : 276131,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 22,
+    "stableSetCount" : 0,
+    "presolveTime" : 436561,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 23,
+    "stableSetCount" : 0,
+    "presolveTime" : 424659,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 24,
+    "stableSetCount" : 0,
+    "presolveTime" : 532672,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 25,
+    "stableSetCount" : 0,
+    "presolveTime" : 678317,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  } ],
+  "successResults" : 16,
+  "totalResults" : 16,
+  "avgSolveTime" : 185991,
+  "maxSolveTime" : 678317,
+  "lowerBound" : 26,
+  "upperBound" : 0
+}
+
+{
+  "instanceName" : "DSJC1000.5",
+  "numVertices" : 1000,
+  "numEdges" : 249826,
+  "density" : 0.5,
+  "knownLowerBound" : 15,
+  "knownUpperBound" : 95,
+  "coloringNumber" : 18,
+  "timeLimit" : 3600000,
+  "startTime" : "2026-04-27 09:45:54",
+  "endTime" : "2026-04-27 10:11:36",
+  "totalTime" : 1542042,
+  "initialLowerBound" : 26,
+  "initialUpperBound" : 26,
+  "maxCliqueSize" : 14,
+  "presolveTime" : 1745,
+  "results" : [ {
+    "numColors" : 26,
+    "stableSetCount" : 0,
+    "presolveTime" : 1540280,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  } ],
+  "successResults" : 1,
+  "totalResults" : 1,
+  "avgSolveTime" : 1540280,
+  "maxSolveTime" : 1540280,
+  "lowerBound" : 27,
+  "upperBound" : 0
+}

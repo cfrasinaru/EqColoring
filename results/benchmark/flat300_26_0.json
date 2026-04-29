@@ -1,0 +1,323 @@
+
+
+{
+  "instanceName" : "flat300_26_0",
+  "numVertices" : 300,
+  "numEdges" : 21633,
+  "density" : 0.48,
+  "knownLowerBound" : 0,
+  "knownUpperBound" : 0,
+  "coloringNumber" : null,
+  "timeLimit" : 900000,
+  "startTime" : "2026-04-25 18:51:19",
+  "endTime" : "2026-04-25 18:59:44",
+  "totalTime" : 505198,
+  "initialLowerBound" : 10,
+  "initialUpperBound" : 44,
+  "maxCliqueSize" : 10,
+  "presolveTime" : 212,
+  "results" : [ {
+    "numColors" : 10,
+    "stableSetCount" : 0,
+    "presolveTime" : 1022,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 11,
+    "stableSetCount" : 0,
+    "presolveTime" : 1234,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 12,
+    "stableSetCount" : 0,
+    "presolveTime" : 4130,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 13,
+    "stableSetCount" : 0,
+    "presolveTime" : 6102,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 14,
+    "stableSetCount" : 0,
+    "presolveTime" : 10610,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 15,
+    "stableSetCount" : 0,
+    "presolveTime" : 20215,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 16,
+    "stableSetCount" : 0,
+    "presolveTime" : 25796,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 17,
+    "stableSetCount" : 0,
+    "presolveTime" : 33740,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 18,
+    "stableSetCount" : 0,
+    "presolveTime" : 43980,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 19,
+    "stableSetCount" : 0,
+    "presolveTime" : 55877,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 20,
+    "stableSetCount" : 0,
+    "presolveTime" : 72422,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 21,
+    "stableSetCount" : 0,
+    "presolveTime" : 10,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 22,
+    "stableSetCount" : 0,
+    "presolveTime" : 100051,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 23,
+    "stableSetCount" : 0,
+    "presolveTime" : 7,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 24,
+    "stableSetCount" : 0,
+    "presolveTime" : 122132,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 25,
+    "stableSetCount" : 31,
+    "presolveTime" : 11,
+    "solveTime" : 3533,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 26,
+    "stableSetCount" : 2161,
+    "presolveTime" : 11,
+    "solveTime" : 4035,
+    "coloring" : "{c(1)=0, c(2)=1, c(3)=2, c(4)=0, c(5)=3, c(6)=4, c(7)=2, c(8)=5, c(9)=6, c(10)=7, c(11)=2, c(12)=0, c(13)=8, c(14)=9, c(15)=10, c(16)=11, c(17)=0, c(18)=0, c(19)=12, c(20)=13, c(21)=6, c(22)=14, c(23)=15, c(24)=13, c(25)=16, c(26)=3, c(27)=13, c(28)=8, c(29)=17, c(30)=3, c(31)=1, c(32)=11, c(33)=4, c(34)=18, c(35)=1, c(36)=16, c(37)=19, c(38)=18, c(39)=20, c(40)=10, c(41)=21, c(42)=0, c(43)=12, c(44)=7, c(45)=22, c(46)=23, c(47)=11, c(48)=0, c(49)=21, c(50)=19, c(51)=18, c(52)=8, c(53)=11, c(54)=1, c(55)=24, c(56)=22, c(57)=6, c(58)=11, c(59)=22, c(60)=9, c(61)=23, c(62)=10, c(63)=24, c(64)=20, c(65)=5, c(66)=7, c(67)=10, c(68)=14, c(69)=12, c(70)=13, c(71)=10, c(72)=13, c(73)=5, c(74)=14, c(75)=1, c(76)=13, c(77)=5, c(78)=4, c(79)=6, c(80)=10, c(81)=2, c(82)=17, c(83)=9, c(84)=8, c(85)=16, c(86)=2, c(87)=12, c(88)=15, c(89)=0, c(90)=12, c(91)=5, c(92)=17, c(93)=15, c(94)=21, c(95)=24, c(96)=20, c(97)=21, c(98)=19, c(99)=17, c(100)=18, c(101)=7, c(102)=22, c(103)=3, c(104)=20, c(105)=8, c(106)=9, c(107)=10, c(108)=20, c(109)=22, c(110)=3, c(111)=24, c(112)=9, c(113)=18, c(114)=13, c(115)=9, c(116)=11, c(117)=16, c(118)=12, c(119)=9, c(120)=17, c(121)=23, c(122)=25, c(123)=15, c(124)=15, c(125)=5, c(126)=7, c(127)=3, c(128)=19, c(129)=15, c(130)=20, c(131)=3, c(132)=24, c(133)=13, c(134)=17, c(135)=14, c(136)=4, c(137)=3, c(138)=4, c(139)=12, c(140)=10, c(141)=25, c(142)=23, c(143)=18, c(144)=17, c(145)=8, c(146)=2, c(147)=8, c(148)=10, c(149)=14, c(150)=15, c(151)=10, c(152)=6, c(153)=24, c(154)=5, c(155)=17, c(156)=13, c(157)=4, c(158)=13, c(159)=14, c(160)=21, c(161)=5, c(162)=19, c(163)=5, c(164)=2, c(165)=23, c(166)=21, c(167)=18, c(168)=22, c(169)=7, c(170)=2, c(171)=16, c(172)=22, c(173)=1, c(174)=16, c(175)=3, c(176)=24, c(177)=25, c(178)=5, c(179)=19, c(180)=6, c(181)=5, c(182)=11, c(183)=17, c(184)=14, c(185)=21, c(186)=25, c(187)=6, c(188)=21, c(189)=11, c(190)=19, c(191)=3, c(192)=18, c(193)=18, c(194)=18, c(195)=7, c(196)=16, c(197)=23, c(198)=20, c(199)=23, c(200)=25, c(201)=25, c(202)=4, c(203)=12, c(204)=11, c(205)=15, c(206)=19, c(207)=23, c(208)=4, c(209)=18, c(210)=18, c(211)=24, c(212)=20, c(213)=23, c(214)=8, c(215)=23, c(216)=25, c(217)=10, c(218)=24, c(219)=21, c(220)=5, c(221)=16, c(222)=20, c(223)=12, c(224)=7, c(225)=16, c(226)=19, c(227)=4, c(228)=25, c(229)=3, c(230)=0, c(231)=20, c(232)=11, c(233)=8, c(234)=17, c(235)=3, c(236)=12, c(237)=1, c(238)=14, c(239)=1, c(240)=22, c(241)=9, c(242)=13, c(243)=22, c(244)=2, c(245)=8, c(246)=17, c(247)=1, c(248)=1, c(249)=9, c(250)=24, c(251)=15, c(252)=22, c(253)=15, c(254)=2, c(255)=4, c(256)=11, c(257)=15, c(258)=0, c(259)=24, c(260)=24, c(261)=7, c(262)=9, c(263)=12, c(264)=6, c(265)=15, c(266)=12, c(267)=20, c(268)=13, c(269)=1, c(270)=23, c(271)=19, c(272)=23, c(273)=25, c(274)=16, c(275)=19, c(276)=22, c(277)=6, c(278)=14, c(279)=6, c(280)=7, c(281)=19, c(282)=4, c(283)=6, c(284)=7, c(285)=25, c(286)=0, c(287)=17, c(288)=2, c(289)=21, c(290)=21, c(291)=25, c(292)=14, c(293)=20, c(294)=0, c(295)=14, c(296)=16, c(297)=9, c(298)=10, c(299)=9, c(300)=8}",
+    "colorClasses" : "{0=[1, 4, 12, 17, 18, 42, 48, 89, 230, 258, 286, 294], 1=[2, 31, 35, 54, 75, 173, 237, 239, 247, 248, 269], 2=[3, 7, 11, 81, 86, 146, 164, 170, 244, 254, 288], 3=[5, 26, 30, 103, 110, 127, 131, 137, 175, 191, 229, 235], 4=[6, 33, 78, 136, 138, 157, 202, 208, 227, 255, 282], 5=[8, 65, 73, 77, 91, 125, 154, 161, 163, 178, 181, 220], 6=[9, 21, 57, 79, 152, 180, 187, 264, 277, 279, 283], 7=[10, 44, 66, 101, 126, 169, 195, 224, 261, 280, 284], 8=[13, 28, 52, 84, 105, 145, 147, 214, 233, 245, 300], 9=[14, 60, 83, 106, 112, 115, 119, 241, 249, 262, 297, 299], 10=[15, 40, 62, 67, 71, 80, 107, 140, 148, 151, 217, 298], 11=[16, 32, 47, 53, 58, 116, 182, 189, 204, 232, 256], 12=[19, 43, 69, 87, 90, 118, 139, 203, 223, 236, 263, 266], 13=[20, 24, 27, 70, 72, 76, 114, 133, 156, 158, 242, 268], 14=[22, 68, 74, 135, 149, 159, 184, 238, 278, 292, 295], 15=[23, 88, 93, 123, 124, 129, 150, 205, 251, 253, 257, 265], 16=[25, 36, 85, 117, 171, 174, 196, 221, 225, 274, 296], 17=[29, 82, 92, 99, 120, 134, 144, 155, 183, 234, 246, 287], 18=[34, 38, 51, 100, 113, 143, 167, 192, 193, 194, 209, 210], 19=[37, 50, 98, 128, 162, 179, 190, 206, 226, 271, 275, 281], 20=[39, 64, 96, 104, 108, 130, 198, 212, 222, 231, 267, 293], 21=[41, 49, 94, 97, 160, 166, 185, 188, 219, 289, 290], 22=[45, 56, 59, 102, 109, 168, 172, 240, 243, 252, 276], 23=[46, 61, 121, 142, 165, 197, 199, 207, 213, 215, 270, 272], 24=[55, 63, 95, 111, 132, 153, 176, 211, 218, 250, 259, 260], 25=[122, 141, 177, 186, 200, 201, 216, 228, 273, 285, 291]}",
+    "status" : "FEASIBLE"
+  } ],
+  "successResults" : 17,
+  "totalResults" : 17,
+  "avgSolveTime" : 29701,
+  "maxSolveTime" : 122132,
+  "lowerBound" : 26,
+  "upperBound" : 26
+}
+
+{
+  "instanceName" : "flat300_26_0",
+  "numVertices" : 300,
+  "numEdges" : 21633,
+  "density" : 0.48,
+  "knownLowerBound" : 0,
+  "knownUpperBound" : 0,
+  "coloringNumber" : 26,
+  "timeLimit" : 3600000,
+  "startTime" : "2026-04-27 11:31:44",
+  "endTime" : "2026-04-27 11:32:22",
+  "totalTime" : 37707,
+  "initialLowerBound" : 10,
+  "initialUpperBound" : 44,
+  "maxCliqueSize" : 10,
+  "presolveTime" : 191,
+  "results" : [ {
+    "numColors" : 10,
+    "stableSetCount" : 0,
+    "presolveTime" : 334,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 11,
+    "stableSetCount" : 0,
+    "presolveTime" : 237,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 12,
+    "stableSetCount" : 0,
+    "presolveTime" : 454,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 13,
+    "stableSetCount" : 0,
+    "presolveTime" : 528,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 14,
+    "stableSetCount" : 0,
+    "presolveTime" : 852,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 15,
+    "stableSetCount" : 0,
+    "presolveTime" : 1383,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 16,
+    "stableSetCount" : 0,
+    "presolveTime" : 1738,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 17,
+    "stableSetCount" : 0,
+    "presolveTime" : 2088,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 18,
+    "stableSetCount" : 0,
+    "presolveTime" : 2697,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 19,
+    "stableSetCount" : 0,
+    "presolveTime" : 3511,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 20,
+    "stableSetCount" : 0,
+    "presolveTime" : 4333,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 21,
+    "stableSetCount" : 0,
+    "presolveTime" : 10,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 22,
+    "stableSetCount" : 0,
+    "presolveTime" : 5450,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 23,
+    "stableSetCount" : 0,
+    "presolveTime" : 0,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 24,
+    "stableSetCount" : 0,
+    "presolveTime" : 6396,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 25,
+    "stableSetCount" : 31,
+    "presolveTime" : 0,
+    "solveTime" : 3417,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 26,
+    "stableSetCount" : 2161,
+    "presolveTime" : 16,
+    "solveTime" : 4037,
+    "coloring" : "{c(1)=0, c(2)=1, c(3)=2, c(4)=0, c(5)=3, c(6)=4, c(7)=2, c(8)=5, c(9)=6, c(10)=7, c(11)=2, c(12)=0, c(13)=8, c(14)=9, c(15)=10, c(16)=11, c(17)=0, c(18)=0, c(19)=12, c(20)=13, c(21)=6, c(22)=14, c(23)=15, c(24)=13, c(25)=16, c(26)=3, c(27)=13, c(28)=8, c(29)=17, c(30)=3, c(31)=1, c(32)=11, c(33)=4, c(34)=18, c(35)=1, c(36)=16, c(37)=19, c(38)=18, c(39)=20, c(40)=10, c(41)=21, c(42)=0, c(43)=12, c(44)=7, c(45)=22, c(46)=23, c(47)=11, c(48)=0, c(49)=21, c(50)=19, c(51)=18, c(52)=8, c(53)=11, c(54)=1, c(55)=24, c(56)=22, c(57)=6, c(58)=11, c(59)=22, c(60)=9, c(61)=23, c(62)=10, c(63)=24, c(64)=20, c(65)=5, c(66)=7, c(67)=10, c(68)=14, c(69)=12, c(70)=13, c(71)=10, c(72)=13, c(73)=5, c(74)=14, c(75)=1, c(76)=13, c(77)=5, c(78)=4, c(79)=6, c(80)=10, c(81)=2, c(82)=17, c(83)=9, c(84)=8, c(85)=16, c(86)=2, c(87)=12, c(88)=15, c(89)=0, c(90)=12, c(91)=5, c(92)=17, c(93)=15, c(94)=21, c(95)=24, c(96)=20, c(97)=21, c(98)=19, c(99)=17, c(100)=18, c(101)=7, c(102)=22, c(103)=3, c(104)=20, c(105)=8, c(106)=9, c(107)=10, c(108)=20, c(109)=22, c(110)=3, c(111)=24, c(112)=9, c(113)=18, c(114)=13, c(115)=9, c(116)=11, c(117)=16, c(118)=12, c(119)=9, c(120)=17, c(121)=23, c(122)=25, c(123)=15, c(124)=15, c(125)=5, c(126)=7, c(127)=3, c(128)=19, c(129)=15, c(130)=20, c(131)=3, c(132)=24, c(133)=13, c(134)=17, c(135)=14, c(136)=4, c(137)=3, c(138)=4, c(139)=12, c(140)=10, c(141)=25, c(142)=23, c(143)=18, c(144)=17, c(145)=8, c(146)=2, c(147)=8, c(148)=10, c(149)=14, c(150)=15, c(151)=10, c(152)=6, c(153)=24, c(154)=5, c(155)=17, c(156)=13, c(157)=4, c(158)=13, c(159)=14, c(160)=21, c(161)=5, c(162)=19, c(163)=5, c(164)=2, c(165)=23, c(166)=21, c(167)=18, c(168)=22, c(169)=7, c(170)=2, c(171)=16, c(172)=22, c(173)=1, c(174)=16, c(175)=3, c(176)=24, c(177)=25, c(178)=5, c(179)=19, c(180)=6, c(181)=5, c(182)=11, c(183)=17, c(184)=14, c(185)=21, c(186)=25, c(187)=6, c(188)=21, c(189)=11, c(190)=19, c(191)=3, c(192)=18, c(193)=18, c(194)=18, c(195)=7, c(196)=16, c(197)=23, c(198)=20, c(199)=23, c(200)=25, c(201)=25, c(202)=4, c(203)=12, c(204)=11, c(205)=15, c(206)=19, c(207)=23, c(208)=4, c(209)=18, c(210)=18, c(211)=24, c(212)=20, c(213)=23, c(214)=8, c(215)=23, c(216)=25, c(217)=10, c(218)=24, c(219)=21, c(220)=5, c(221)=16, c(222)=20, c(223)=12, c(224)=7, c(225)=16, c(226)=19, c(227)=4, c(228)=25, c(229)=3, c(230)=0, c(231)=20, c(232)=11, c(233)=8, c(234)=17, c(235)=3, c(236)=12, c(237)=1, c(238)=14, c(239)=1, c(240)=22, c(241)=9, c(242)=13, c(243)=22, c(244)=2, c(245)=8, c(246)=17, c(247)=1, c(248)=1, c(249)=9, c(250)=24, c(251)=15, c(252)=22, c(253)=15, c(254)=2, c(255)=4, c(256)=11, c(257)=15, c(258)=0, c(259)=24, c(260)=24, c(261)=7, c(262)=9, c(263)=12, c(264)=6, c(265)=15, c(266)=12, c(267)=20, c(268)=13, c(269)=1, c(270)=23, c(271)=19, c(272)=23, c(273)=25, c(274)=16, c(275)=19, c(276)=22, c(277)=6, c(278)=14, c(279)=6, c(280)=7, c(281)=19, c(282)=4, c(283)=6, c(284)=7, c(285)=25, c(286)=0, c(287)=17, c(288)=2, c(289)=21, c(290)=21, c(291)=25, c(292)=14, c(293)=20, c(294)=0, c(295)=14, c(296)=16, c(297)=9, c(298)=10, c(299)=9, c(300)=8}",
+    "colorClasses" : "{0=[1, 4, 12, 17, 18, 42, 48, 89, 230, 258, 286, 294], 1=[2, 31, 35, 54, 75, 173, 237, 239, 247, 248, 269], 2=[3, 7, 11, 81, 86, 146, 164, 170, 244, 254, 288], 3=[5, 26, 30, 103, 110, 127, 131, 137, 175, 191, 229, 235], 4=[6, 33, 78, 136, 138, 157, 202, 208, 227, 255, 282], 5=[8, 65, 73, 77, 91, 125, 154, 161, 163, 178, 181, 220], 6=[9, 21, 57, 79, 152, 180, 187, 264, 277, 279, 283], 7=[10, 44, 66, 101, 126, 169, 195, 224, 261, 280, 284], 8=[13, 28, 52, 84, 105, 145, 147, 214, 233, 245, 300], 9=[14, 60, 83, 106, 112, 115, 119, 241, 249, 262, 297, 299], 10=[15, 40, 62, 67, 71, 80, 107, 140, 148, 151, 217, 298], 11=[16, 32, 47, 53, 58, 116, 182, 189, 204, 232, 256], 12=[19, 43, 69, 87, 90, 118, 139, 203, 223, 236, 263, 266], 13=[20, 24, 27, 70, 72, 76, 114, 133, 156, 158, 242, 268], 14=[22, 68, 74, 135, 149, 159, 184, 238, 278, 292, 295], 15=[23, 88, 93, 123, 124, 129, 150, 205, 251, 253, 257, 265], 16=[25, 36, 85, 117, 171, 174, 196, 221, 225, 274, 296], 17=[29, 82, 92, 99, 120, 134, 144, 155, 183, 234, 246, 287], 18=[34, 38, 51, 100, 113, 143, 167, 192, 193, 194, 209, 210], 19=[37, 50, 98, 128, 162, 179, 190, 206, 226, 271, 275, 281], 20=[39, 64, 96, 104, 108, 130, 198, 212, 222, 231, 267, 293], 21=[41, 49, 94, 97, 160, 166, 185, 188, 219, 289, 290], 22=[45, 56, 59, 102, 109, 168, 172, 240, 243, 252, 276], 23=[46, 61, 121, 142, 165, 197, 199, 207, 213, 215, 270, 272], 24=[55, 63, 95, 111, 132, 153, 176, 211, 218, 250, 259, 260], 25=[122, 141, 177, 186, 200, 201, 216, 228, 273, 285, 291]}",
+    "status" : "FEASIBLE"
+  } ],
+  "successResults" : 17,
+  "totalResults" : 17,
+  "avgSolveTime" : 2204,
+  "maxSolveTime" : 6396,
+  "lowerBound" : 26,
+  "upperBound" : 26
+}

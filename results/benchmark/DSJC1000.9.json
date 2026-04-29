@@ -1,0 +1,1306 @@
+
+
+{
+  "instanceName" : "DSJC1000.9",
+  "numVertices" : 1000,
+  "numEdges" : 449449,
+  "density" : 0.9,
+  "knownLowerBound" : 201,
+  "knownUpperBound" : 251,
+  "coloringNumber" : 215,
+  "timeLimit" : 600000,
+  "startTime" : "2026-04-25 04:49:23",
+  "endTime" : "2026-04-25 05:00:50",
+  "totalTime" : 686645,
+  "initialLowerBound" : 57,
+  "initialUpperBound" : 0,
+  "maxCliqueSize" : 57,
+  "presolveTime" : 4158,
+  "results" : [ {
+    "numColors" : 57,
+    "stableSetCount" : 0,
+    "presolveTime" : 77,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 58,
+    "stableSetCount" : 0,
+    "presolveTime" : 36,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 59,
+    "stableSetCount" : 0,
+    "presolveTime" : 38,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 60,
+    "stableSetCount" : 0,
+    "presolveTime" : 35,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 61,
+    "stableSetCount" : 0,
+    "presolveTime" : 52,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 62,
+    "stableSetCount" : 0,
+    "presolveTime" : 38,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 63,
+    "stableSetCount" : 0,
+    "presolveTime" : 48,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 64,
+    "stableSetCount" : 0,
+    "presolveTime" : 47,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 65,
+    "stableSetCount" : 0,
+    "presolveTime" : 42,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 66,
+    "stableSetCount" : 0,
+    "presolveTime" : 49,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 67,
+    "stableSetCount" : 0,
+    "presolveTime" : 55,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 68,
+    "stableSetCount" : 0,
+    "presolveTime" : 56,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 69,
+    "stableSetCount" : 0,
+    "presolveTime" : 55,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 70,
+    "stableSetCount" : 0,
+    "presolveTime" : 60,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 71,
+    "stableSetCount" : 0,
+    "presolveTime" : 51,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 72,
+    "stableSetCount" : 0,
+    "presolveTime" : 67,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 73,
+    "stableSetCount" : 0,
+    "presolveTime" : 58,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 74,
+    "stableSetCount" : 0,
+    "presolveTime" : 70,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 75,
+    "stableSetCount" : 0,
+    "presolveTime" : 63,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 76,
+    "stableSetCount" : 0,
+    "presolveTime" : 61,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 77,
+    "stableSetCount" : 0,
+    "presolveTime" : 67,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 78,
+    "stableSetCount" : 0,
+    "presolveTime" : 84,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 79,
+    "stableSetCount" : 0,
+    "presolveTime" : 70,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 80,
+    "stableSetCount" : 0,
+    "presolveTime" : 76,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 81,
+    "stableSetCount" : 0,
+    "presolveTime" : 74,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 82,
+    "stableSetCount" : 0,
+    "presolveTime" : 71,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 83,
+    "stableSetCount" : 0,
+    "presolveTime" : 83,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 84,
+    "stableSetCount" : 0,
+    "presolveTime" : 83,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 85,
+    "stableSetCount" : 0,
+    "presolveTime" : 88,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 86,
+    "stableSetCount" : 0,
+    "presolveTime" : 78,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 87,
+    "stableSetCount" : 0,
+    "presolveTime" : 91,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 88,
+    "stableSetCount" : 0,
+    "presolveTime" : 90,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 89,
+    "stableSetCount" : 0,
+    "presolveTime" : 86,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 90,
+    "stableSetCount" : 0,
+    "presolveTime" : 94,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 91,
+    "stableSetCount" : 0,
+    "presolveTime" : 103,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 92,
+    "stableSetCount" : 0,
+    "presolveTime" : 102,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 93,
+    "stableSetCount" : 0,
+    "presolveTime" : 99,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 94,
+    "stableSetCount" : 0,
+    "presolveTime" : 98,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 95,
+    "stableSetCount" : 0,
+    "presolveTime" : 98,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 96,
+    "stableSetCount" : 0,
+    "presolveTime" : 102,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 97,
+    "stableSetCount" : 0,
+    "presolveTime" : 91,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 98,
+    "stableSetCount" : 0,
+    "presolveTime" : 104,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 99,
+    "stableSetCount" : 0,
+    "presolveTime" : 94,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 100,
+    "stableSetCount" : 0,
+    "presolveTime" : 129,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 101,
+    "stableSetCount" : 0,
+    "presolveTime" : 136,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 102,
+    "stableSetCount" : 0,
+    "presolveTime" : 137,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 103,
+    "stableSetCount" : 0,
+    "presolveTime" : 133,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 104,
+    "stableSetCount" : 0,
+    "presolveTime" : 132,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 105,
+    "stableSetCount" : 0,
+    "presolveTime" : 139,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 106,
+    "stableSetCount" : 0,
+    "presolveTime" : 125,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 107,
+    "stableSetCount" : 0,
+    "presolveTime" : 132,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 108,
+    "stableSetCount" : 0,
+    "presolveTime" : 125,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 109,
+    "stableSetCount" : 0,
+    "presolveTime" : 145,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 110,
+    "stableSetCount" : 0,
+    "presolveTime" : 139,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 111,
+    "stableSetCount" : 0,
+    "presolveTime" : 138,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 112,
+    "stableSetCount" : 0,
+    "presolveTime" : 153,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 113,
+    "stableSetCount" : 0,
+    "presolveTime" : 153,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 114,
+    "stableSetCount" : 0,
+    "presolveTime" : 145,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 115,
+    "stableSetCount" : 0,
+    "presolveTime" : 162,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 116,
+    "stableSetCount" : 0,
+    "presolveTime" : 165,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 117,
+    "stableSetCount" : 0,
+    "presolveTime" : 166,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 118,
+    "stableSetCount" : 0,
+    "presolveTime" : 160,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 119,
+    "stableSetCount" : 0,
+    "presolveTime" : 152,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 120,
+    "stableSetCount" : 0,
+    "presolveTime" : 152,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 121,
+    "stableSetCount" : 0,
+    "presolveTime" : 145,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 122,
+    "stableSetCount" : 0,
+    "presolveTime" : 156,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 123,
+    "stableSetCount" : 0,
+    "presolveTime" : 155,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 124,
+    "stableSetCount" : 0,
+    "presolveTime" : 153,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 125,
+    "stableSetCount" : 0,
+    "presolveTime" : 167,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 126,
+    "stableSetCount" : 0,
+    "presolveTime" : 173,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 127,
+    "stableSetCount" : 0,
+    "presolveTime" : 173,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 128,
+    "stableSetCount" : 0,
+    "presolveTime" : 178,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 129,
+    "stableSetCount" : 0,
+    "presolveTime" : 169,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 130,
+    "stableSetCount" : 0,
+    "presolveTime" : 181,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 131,
+    "stableSetCount" : 0,
+    "presolveTime" : 167,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 132,
+    "stableSetCount" : 0,
+    "presolveTime" : 173,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 133,
+    "stableSetCount" : 0,
+    "presolveTime" : 164,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 134,
+    "stableSetCount" : 0,
+    "presolveTime" : 168,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 135,
+    "stableSetCount" : 0,
+    "presolveTime" : 169,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 136,
+    "stableSetCount" : 0,
+    "presolveTime" : 173,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 137,
+    "stableSetCount" : 0,
+    "presolveTime" : 167,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 138,
+    "stableSetCount" : 0,
+    "presolveTime" : 166,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 139,
+    "stableSetCount" : 0,
+    "presolveTime" : 174,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 140,
+    "stableSetCount" : 0,
+    "presolveTime" : 175,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 141,
+    "stableSetCount" : 0,
+    "presolveTime" : 199,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 142,
+    "stableSetCount" : 0,
+    "presolveTime" : 184,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 143,
+    "stableSetCount" : 0,
+    "presolveTime" : 184,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 144,
+    "stableSetCount" : 0,
+    "presolveTime" : 194,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 145,
+    "stableSetCount" : 0,
+    "presolveTime" : 187,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 146,
+    "stableSetCount" : 0,
+    "presolveTime" : 194,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 147,
+    "stableSetCount" : 0,
+    "presolveTime" : 201,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 148,
+    "stableSetCount" : 0,
+    "presolveTime" : 191,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 149,
+    "stableSetCount" : 0,
+    "presolveTime" : 181,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 150,
+    "stableSetCount" : 0,
+    "presolveTime" : 203,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 151,
+    "stableSetCount" : 0,
+    "presolveTime" : 216,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 152,
+    "stableSetCount" : 0,
+    "presolveTime" : 222,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 153,
+    "stableSetCount" : 0,
+    "presolveTime" : 194,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 154,
+    "stableSetCount" : 0,
+    "presolveTime" : 189,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 155,
+    "stableSetCount" : 0,
+    "presolveTime" : 185,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 156,
+    "stableSetCount" : 0,
+    "presolveTime" : 202,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 157,
+    "stableSetCount" : 0,
+    "presolveTime" : 194,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 158,
+    "stableSetCount" : 0,
+    "presolveTime" : 201,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 159,
+    "stableSetCount" : 0,
+    "presolveTime" : 187,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 160,
+    "stableSetCount" : 0,
+    "presolveTime" : 202,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 161,
+    "stableSetCount" : 0,
+    "presolveTime" : 201,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 162,
+    "stableSetCount" : 0,
+    "presolveTime" : 209,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 163,
+    "stableSetCount" : 0,
+    "presolveTime" : 207,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 164,
+    "stableSetCount" : 0,
+    "presolveTime" : 196,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 165,
+    "stableSetCount" : 0,
+    "presolveTime" : 203,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 166,
+    "stableSetCount" : 0,
+    "presolveTime" : 202,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 167,
+    "stableSetCount" : 872,
+    "presolveTime" : 160,
+    "solveTime" : 118,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 168,
+    "stableSetCount" : 872,
+    "presolveTime" : 152,
+    "solveTime" : 87,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 169,
+    "stableSetCount" : 872,
+    "presolveTime" : 163,
+    "solveTime" : 55,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 170,
+    "stableSetCount" : 872,
+    "presolveTime" : 167,
+    "solveTime" : 67,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 171,
+    "stableSetCount" : 872,
+    "presolveTime" : 155,
+    "solveTime" : 61,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 172,
+    "stableSetCount" : 872,
+    "presolveTime" : 161,
+    "solveTime" : 69,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 173,
+    "stableSetCount" : 872,
+    "presolveTime" : 158,
+    "solveTime" : 59,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 174,
+    "stableSetCount" : 872,
+    "presolveTime" : 162,
+    "solveTime" : 49,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 175,
+    "stableSetCount" : 872,
+    "presolveTime" : 167,
+    "solveTime" : 49,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 176,
+    "stableSetCount" : 872,
+    "presolveTime" : 167,
+    "solveTime" : 58,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 177,
+    "stableSetCount" : 872,
+    "presolveTime" : 150,
+    "solveTime" : 61,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 178,
+    "stableSetCount" : 872,
+    "presolveTime" : 160,
+    "solveTime" : 52,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 179,
+    "stableSetCount" : 872,
+    "presolveTime" : 156,
+    "solveTime" : 56,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 180,
+    "stableSetCount" : 872,
+    "presolveTime" : 158,
+    "solveTime" : 52,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 181,
+    "stableSetCount" : 872,
+    "presolveTime" : 169,
+    "solveTime" : 52,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 182,
+    "stableSetCount" : 872,
+    "presolveTime" : 155,
+    "solveTime" : 57,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 183,
+    "stableSetCount" : 872,
+    "presolveTime" : 159,
+    "solveTime" : 51,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 184,
+    "stableSetCount" : 872,
+    "presolveTime" : 164,
+    "solveTime" : 55,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 185,
+    "stableSetCount" : 872,
+    "presolveTime" : 167,
+    "solveTime" : 55,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 186,
+    "stableSetCount" : 872,
+    "presolveTime" : 167,
+    "solveTime" : 51,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 187,
+    "stableSetCount" : 872,
+    "presolveTime" : 185,
+    "solveTime" : 62,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 188,
+    "stableSetCount" : 872,
+    "presolveTime" : 175,
+    "solveTime" : 55,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 189,
+    "stableSetCount" : 872,
+    "presolveTime" : 173,
+    "solveTime" : 56,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 190,
+    "stableSetCount" : 872,
+    "presolveTime" : 182,
+    "solveTime" : 47,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 191,
+    "stableSetCount" : 872,
+    "presolveTime" : 154,
+    "solveTime" : 60,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 192,
+    "stableSetCount" : 872,
+    "presolveTime" : 167,
+    "solveTime" : 49,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 193,
+    "stableSetCount" : 872,
+    "presolveTime" : 160,
+    "solveTime" : 55,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 194,
+    "stableSetCount" : 872,
+    "presolveTime" : 167,
+    "solveTime" : 64,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 195,
+    "stableSetCount" : 872,
+    "presolveTime" : 157,
+    "solveTime" : 47,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 196,
+    "stableSetCount" : 872,
+    "presolveTime" : 171,
+    "solveTime" : 52,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 197,
+    "stableSetCount" : 872,
+    "presolveTime" : 160,
+    "solveTime" : 49,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 198,
+    "stableSetCount" : 872,
+    "presolveTime" : 173,
+    "solveTime" : 49,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 199,
+    "stableSetCount" : 872,
+    "presolveTime" : 166,
+    "solveTime" : 49,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 200,
+    "stableSetCount" : 869,
+    "presolveTime" : 159,
+    "solveTime" : 51,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 201,
+    "stableSetCount" : 42528,
+    "presolveTime" : 159,
+    "solveTime" : 932,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 202,
+    "stableSetCount" : 42528,
+    "presolveTime" : 157,
+    "solveTime" : 978,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 203,
+    "stableSetCount" : 42528,
+    "presolveTime" : 146,
+    "solveTime" : 908,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 204,
+    "stableSetCount" : 42528,
+    "presolveTime" : 152,
+    "solveTime" : 934,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 205,
+    "stableSetCount" : 42528,
+    "presolveTime" : 155,
+    "solveTime" : 896,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 206,
+    "stableSetCount" : 42528,
+    "presolveTime" : 167,
+    "solveTime" : 923,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 207,
+    "stableSetCount" : 42528,
+    "presolveTime" : 159,
+    "solveTime" : 649,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 208,
+    "stableSetCount" : 42528,
+    "presolveTime" : 155,
+    "solveTime" : 903,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 209,
+    "stableSetCount" : 42528,
+    "presolveTime" : 152,
+    "solveTime" : 764,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 210,
+    "stableSetCount" : 42528,
+    "presolveTime" : 160,
+    "solveTime" : 6531,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 211,
+    "stableSetCount" : 42528,
+    "presolveTime" : 166,
+    "solveTime" : 6587,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 212,
+    "stableSetCount" : 42528,
+    "presolveTime" : 154,
+    "solveTime" : 7793,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 213,
+    "stableSetCount" : 42528,
+    "presolveTime" : 153,
+    "solveTime" : 8100,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 214,
+    "stableSetCount" : 42528,
+    "presolveTime" : 159,
+    "solveTime" : 9620,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 215,
+    "stableSetCount" : 42528,
+    "presolveTime" : 146,
+    "solveTime" : 10426,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 216,
+    "stableSetCount" : 42528,
+    "presolveTime" : 158,
+    "solveTime" : 600780,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TIMEOUT"
+  } ],
+  "successResults" : 159,
+  "totalResults" : 160,
+  "avgSolveTime" : 511,
+  "maxSolveTime" : 10572,
+  "lowerBound" : 216,
+  "upperBound" : 0
+}

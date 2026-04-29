@@ -1,0 +1,100 @@
+
+
+{
+  "instanceName" : "anna",
+  "numVertices" : 138,
+  "numEdges" : 493,
+  "density" : 0.05,
+  "knownLowerBound" : null,
+  "knownUpperBound" : null,
+  "coloringNumber" : null,
+  "timeLimit" : 900000,
+  "startTime" : "2026-04-25 18:18:16",
+  "endTime" : "2026-04-25 18:18:17",
+  "totalTime" : 649,
+  "initialLowerBound" : 11,
+  "initialUpperBound" : 11,
+  "maxCliqueSize" : 11,
+  "presolveTime" : 9,
+  "results" : [ {
+    "numColors" : 11,
+    "stableSetCount" : 0,
+    "presolveTime" : 110,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  } ],
+  "successResults" : 1,
+  "totalResults" : 1,
+  "avgSolveTime" : 110,
+  "maxSolveTime" : 110,
+  "lowerBound" : 12,
+  "upperBound" : 11
+}
+
+{
+  "instanceName" : "anna",
+  "numVertices" : 138,
+  "numEdges" : 493,
+  "density" : 0.05,
+  "knownLowerBound" : null,
+  "knownUpperBound" : null,
+  "coloringNumber" : null,
+  "timeLimit" : 900000,
+  "startTime" : "2026-04-25 18:20:13",
+  "endTime" : "2026-04-25 18:20:13",
+  "totalTime" : 627,
+  "initialLowerBound" : 11,
+  "initialUpperBound" : 11,
+  "maxCliqueSize" : 11,
+  "presolveTime" : 16,
+  "results" : [ {
+    "numColors" : 11,
+    "stableSetCount" : 1000001,
+    "presolveTime" : 110,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  } ],
+  "successResults" : 0,
+  "totalResults" : 1,
+  "avgSolveTime" : 0,
+  "maxSolveTime" : 0,
+  "lowerBound" : 11,
+  "upperBound" : 11
+}
+
+{
+  "instanceName" : "anna",
+  "numVertices" : 138,
+  "numEdges" : 493,
+  "density" : 0.05,
+  "knownLowerBound" : null,
+  "knownUpperBound" : null,
+  "coloringNumber" : null,
+  "timeLimit" : 10000,
+  "startTime" : "2026-04-26 17:50:02",
+  "endTime" : "2026-04-26 17:50:03",
+  "totalTime" : 667,
+  "initialLowerBound" : 11,
+  "initialUpperBound" : 11,
+  "maxCliqueSize" : 11,
+  "presolveTime" : 7,
+  "results" : [ {
+    "numColors" : 11,
+    "stableSetCount" : 1000001,
+    "presolveTime" : 96,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  } ],
+  "successResults" : 0,
+  "totalResults" : 1,
+  "avgSolveTime" : 0,
+  "maxSolveTime" : 0,
+  "lowerBound" : 11,
+  "upperBound" : 11
+}

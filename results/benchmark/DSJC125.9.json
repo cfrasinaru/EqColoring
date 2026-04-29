@@ -1,0 +1,130 @@
+{
+  "instanceName" : "DSJC125.9",
+  "numVertices" : 125,
+  "numEdges" : 6961,
+  "density" : 0.9,
+  "knownLowerBound" : 43,
+  "knownUpperBound" : 44,
+  "coloringNumber" : 44,
+  "timeLimit" : 60000,
+  "startTime" : "2026-04-23 15:25:05",
+  "endTime" : "2026-04-23 15:25:05",
+  "totalTime" : 395,
+  "initialLowerBound" : 32,
+  "initialUpperBound" : 51,
+  "maxCliqueSize" : 32,
+  "presolveTime" : 47,
+  "results" : [ {
+    "numColors" : 32,
+    "stableSetCount" : 335,
+    "presolveTime" : 16,
+    "solveTime" : 31,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 33,
+    "stableSetCount" : 335,
+    "presolveTime" : 0,
+    "solveTime" : 16,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 34,
+    "stableSetCount" : 335,
+    "presolveTime" : 0,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 35,
+    "stableSetCount" : 335,
+    "presolveTime" : 0,
+    "solveTime" : 18,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 36,
+    "stableSetCount" : 335,
+    "presolveTime" : 0,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 37,
+    "stableSetCount" : 335,
+    "presolveTime" : 0,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 38,
+    "stableSetCount" : 335,
+    "presolveTime" : 14,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 39,
+    "stableSetCount" : 335,
+    "presolveTime" : 0,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 40,
+    "stableSetCount" : 335,
+    "presolveTime" : 15,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 41,
+    "stableSetCount" : 335,
+    "presolveTime" : 0,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 42,
+    "stableSetCount" : 1115,
+    "presolveTime" : 0,
+    "solveTime" : 22,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 43,
+    "stableSetCount" : 1115,
+    "presolveTime" : 0,
+    "solveTime" : 39,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "UNFEASIBLE"
+  }, {
+    "numColors" : 44,
+    "stableSetCount" : 1115,
+    "presolveTime" : 0,
+    "solveTime" : 128,
+    "coloring" : "{c(1)=0, c(2)=1, c(3)=2, c(4)=3, c(5)=4, c(6)=5, c(7)=6, c(8)=7, c(9)=8, c(10)=9, c(11)=10, c(12)=11, c(13)=12, c(14)=13, c(15)=14, c(16)=15, c(17)=9, c(18)=16, c(19)=17, c(20)=18, c(21)=19, c(22)=7, c(23)=20, c(24)=21, c(25)=8, c(26)=22, c(27)=0, c(28)=22, c(29)=23, c(30)=24, c(31)=25, c(32)=25, c(33)=25, c(34)=19, c(35)=20, c(36)=26, c(37)=27, c(38)=11, c(39)=28, c(40)=16, c(41)=26, c(42)=29, c(43)=30, c(44)=31, c(45)=18, c(46)=32, c(47)=6, c(48)=15, c(49)=33, c(50)=6, c(51)=1, c(52)=33, c(53)=34, c(54)=35, c(55)=8, c(56)=36, c(57)=37, c(58)=38, c(59)=5, c(60)=3, c(61)=11, c(62)=35, c(63)=29, c(64)=19, c(65)=39, c(66)=31, c(67)=7, c(68)=0, c(69)=27, c(70)=40, c(71)=28, c(72)=14, c(73)=41, c(74)=27, c(75)=4, c(76)=20, c(77)=37, c(78)=32, c(79)=18, c(80)=13, c(81)=15, c(82)=36, c(83)=16, c(84)=17, c(85)=42, c(86)=10, c(87)=10, c(88)=30, c(89)=21, c(90)=30, c(91)=32, c(92)=40, c(93)=1, c(94)=38, c(95)=42, c(96)=38, c(97)=28, c(98)=40, c(99)=13, c(100)=12, c(101)=24, c(102)=23, c(103)=35, c(104)=41, c(105)=43, c(106)=4, c(107)=21, c(108)=43, c(109)=29, c(110)=43, c(111)=14, c(112)=22, c(113)=39, c(114)=39, c(115)=17, c(116)=3, c(117)=42, c(118)=41, c(119)=34, c(120)=23, c(121)=5, c(122)=2, c(123)=9, c(124)=34, c(125)=26}",
+    "colorClasses" : "{0=[1, 27, 68], 1=[2, 51, 93], 2=[3, 122], 3=[4, 60, 116], 4=[5, 75, 106], 5=[6, 59, 121], 6=[7, 47, 50], 7=[8, 22, 67], 8=[9, 25, 55], 9=[10, 17, 123], 10=[11, 86, 87], 11=[12, 38, 61], 12=[13, 100], 13=[14, 80, 99], 14=[15, 72, 111], 15=[16, 48, 81], 16=[18, 40, 83], 17=[19, 84, 115], 18=[20, 45, 79], 19=[21, 34, 64], 20=[23, 35, 76], 21=[24, 89, 107], 22=[26, 28, 112], 23=[29, 102, 120], 24=[30, 101], 25=[31, 32, 33], 26=[36, 41, 125], 27=[37, 69, 74], 28=[39, 71, 97], 29=[42, 63, 109], 30=[43, 88, 90], 31=[44, 66], 32=[46, 78, 91], 33=[49, 52], 34=[53, 119, 124], 35=[54, 62, 103], 36=[56, 82], 37=[57, 77], 38=[58, 94, 96], 39=[65, 113, 114], 40=[70, 92, 98], 41=[73, 104, 118], 42=[85, 95, 117], 43=[105, 108, 110]}",
+    "status" : "FEASIBLE"
+  } ],
+  "successResults" : 13,
+  "totalResults" : 13,
+  "averageSolveTime" : 23,
+  "lowerBound" : 44,
+  "upperBound" : 44
+}
+
+
+

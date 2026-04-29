@@ -1,0 +1,34 @@
+
+
+{
+  "instanceName" : "R1000.5",
+  "numVertices" : 1000,
+  "numEdges" : 238267,
+  "density" : 0.48,
+  "knownLowerBound" : 0,
+  "knownUpperBound" : 247,
+  "coloringNumber" : 234,
+  "timeLimit" : 900000,
+  "startTime" : "2026-04-25 17:45:08",
+  "endTime" : "2026-04-25 17:45:11",
+  "totalTime" : 2572,
+  "initialLowerBound" : 214,
+  "initialUpperBound" : 254,
+  "maxCliqueSize" : 214,
+  "presolveTime" : 2540,
+  "results" : [ {
+    "numColors" : 214,
+    "stableSetCount" : 13477240643,
+    "presolveTime" : 0,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  } ],
+  "successResults" : 0,
+  "totalResults" : 1,
+  "avgSolveTime" : 0,
+  "maxSolveTime" : 0,
+  "lowerBound" : 214,
+  "upperBound" : 254
+}
