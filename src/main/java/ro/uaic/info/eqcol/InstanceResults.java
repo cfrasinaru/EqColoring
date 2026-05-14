@@ -194,14 +194,14 @@ public class InstanceResults {
         return results.stream()
                 .filter(r -> r.getStatus() == Status.UNFEASIBLE)
                 .mapToInt(r -> 1 + r.getNumColors())
-                .max().orElse(initialLowerBound);
+                .max().orElse(0);
     }
 
     public int getUpperBound() {
         return results.stream()
                 .filter(r -> r.getStatus() == Status.FEASIBLE)
                 .mapToInt(r -> r.getNumColors())
-                .min().orElse(initialUpperBound);
+                .min().orElse(0);
     }
 
     public long getAvgSolveTime() {

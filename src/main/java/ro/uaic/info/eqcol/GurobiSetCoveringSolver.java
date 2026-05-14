@@ -60,12 +60,13 @@ public class GurobiSetCoveringSolver extends GurobiColoringBase
     //stable sets with size n/p or between n/p and 1+n/p
     public void createStableSets(int kmin, int kmax) {
         long t0 = System.currentTimeMillis();
-
         stableSets = new ArrayList<>();
         var it = new StableSetIterator(graph, kmin, kmax, 0);
         int count = 0;
+        mainLoop:
         while (it.hasNext()) {
-            stableSets.add(it.next());
+            var set = it.next();
+            stableSets.add(set);
             if (++count > MAX_STABLE_SET_COUNT) {
                 throw new TooManySetsException(count);
             }
@@ -158,4 +159,5 @@ public class GurobiSetCoveringSolver extends GurobiColoringBase
         }
         return coloring;
     }
+
 }

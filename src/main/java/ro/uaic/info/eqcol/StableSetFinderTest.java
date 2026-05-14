@@ -33,18 +33,18 @@ public class StableSetFinderTest {
     }
 
     private static void simpleTest() {
-        int n = 400;
-        double p = 0.5;
+        int n = 200;
+        double p = 0.7;
         Graph g = GraphGenerator.randomGnp(n, p);
         //Graph g = new Dataset().getInstance("C2000.5").getGraph();
-        int size = 20;
+        int size = 10;
         var finder = new StableSetFinder(g, size, 10 * 1000);
         System.out.println(finder.find());
     }
 
     private static void compareVsGurobi() {
         int n = 200;
-        double p = 0.7;
+        double p = 0.1;
         Graph g = GraphGenerator.randomGnp(n, p);
         //Graph g = new DimacsIO().read("d:/datasets/coloring/instances/DSJC1000.5.col");
         g = GraphUtils.shuffle(g);
@@ -78,7 +78,7 @@ public class StableSetFinderTest {
     }
 
     private static void compareVsIterator() {
-        int n = 20;
+        int n = 300;
         double p = 0.5;
         Graph g = GraphGenerator.randomGnp(n, p);
         //Graph g = new DimacsIO().read("d:/datasets/coloring/instances/DSJC1000.5.col");

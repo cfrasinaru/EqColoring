@@ -1304,3 +1304,36 @@
   "lowerBound" : 216,
   "upperBound" : 0
 }
+
+{
+  "instanceName" : "DSJC1000.9",
+  "numVertices" : 1000,
+  "numEdges" : 449449,
+  "density" : 0.9,
+  "knownLowerBound" : 201,
+  "knownUpperBound" : 251,
+  "coloringNumber" : 215,
+  "timeLimit" : 3600000,
+  "startTime" : "2026-04-30 06:58:20",
+  "endTime" : "2026-04-30 07:58:31",
+  "totalTime" : 3611289,
+  "initialLowerBound" : 251,
+  "initialUpperBound" : 251,
+  "maxCliqueSize" : 57,
+  "presolveTime" : 3972,
+  "results" : [ {
+    "numColors" : 251,
+    "stableSetCount" : 0,
+    "presolveTime" : 2002,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TIMEOUT"
+  } ],
+  "successResults" : 0,
+  "totalResults" : 1,
+  "avgSolveTime" : 0,
+  "maxSolveTime" : 0,
+  "lowerBound" : 0,
+  "upperBound" : 0
+}

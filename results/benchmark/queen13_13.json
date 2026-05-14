@@ -1,0 +1,115 @@
+
+
+{
+  "instanceName" : "queen13_13",
+  "numVertices" : 169,
+  "numEdges" : 3328,
+  "density" : 0.23,
+  "knownLowerBound" : null,
+  "knownUpperBound" : null,
+  "coloringNumber" : null,
+  "timeLimit" : 1800000,
+  "startTime" : "2026-04-29 12:40:27",
+  "endTime" : "2026-04-29 13:15:21",
+  "totalTime" : 2093447,
+  "initialLowerBound" : 13,
+  "initialUpperBound" : 18,
+  "maxCliqueSize" : 13,
+  "presolveTime" : 48,
+  "results" : [ {
+    "numColors" : 13,
+    "stableSetCount" : 0,
+    "presolveTime" : 185,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TIMEOUT"
+  }, {
+    "numColors" : 16,
+    "stableSetCount" : 10000001,
+    "presolveTime" : 3,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  }, {
+    "numColors" : 17,
+    "stableSetCount" : 10000001,
+    "presolveTime" : 1,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  }, {
+    "numColors" : 18,
+    "stableSetCount" : 10000001,
+    "presolveTime" : 2,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  } ],
+  "successResults" : 0,
+  "totalResults" : 4,
+  "avgSolveTime" : 0,
+  "maxSolveTime" : 0,
+  "lowerBound" : 13,
+  "upperBound" : 18
+}
+
+{
+  "instanceName" : "queen13_13",
+  "numVertices" : 169,
+  "numEdges" : 3328,
+  "density" : 0.23,
+  "knownLowerBound" : null,
+  "knownUpperBound" : null,
+  "coloringNumber" : null,
+  "timeLimit" : 3600000,
+  "startTime" : "2026-04-29 13:41:16",
+  "endTime" : "2026-04-29 14:46:11",
+  "totalTime" : 3895197,
+  "initialLowerBound" : 13,
+  "initialUpperBound" : 18,
+  "maxCliqueSize" : 13,
+  "presolveTime" : 48,
+  "results" : [ {
+    "numColors" : 13,
+    "stableSetCount" : 0,
+    "presolveTime" : 144,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TIMEOUT"
+  }, {
+    "numColors" : 16,
+    "stableSetCount" : 10000001,
+    "presolveTime" : 2,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  }, {
+    "numColors" : 17,
+    "stableSetCount" : 10000001,
+    "presolveTime" : 2,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  }, {
+    "numColors" : 18,
+    "stableSetCount" : 10000001,
+    "presolveTime" : 1,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TOO_MANY_SETS"
+  } ],
+  "successResults" : 0,
+  "totalResults" : 4,
+  "avgSolveTime" : 0,
+  "maxSolveTime" : 0,
+  "lowerBound" : 13,
+  "upperBound" : 18
+}

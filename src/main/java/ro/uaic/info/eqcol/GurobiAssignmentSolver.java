@@ -52,13 +52,13 @@ public class GurobiAssignmentSolver extends GurobiColoringBase
     @Override
     protected boolean createModel(int numColors) throws GRBException {
         int n = graph.numVertices();
-        int k = numColors;
-        int n1 = n % k == 0 ? n : (1 + (n / k)) * k;
+        int p = numColors;
+        int n1 = n % p == 0 ? n : (1 + (n / p)) * p;
         //variables in the range [n,n1) are fake (vertices connected with everybody else)
 
-        x = new GRBVar[n1][k];
+        x = new GRBVar[n1][p];
         for (int i = 0; i < n1; i++) {
-            for (int c = 0; c < k; c++) {
+            for (int c = 0; c < p; c++) {
                 x[i][c] = model.addVar(0.0, 1.0, 0.0, GRB.BINARY, "x[" + i + ", " + c + "]");
             }
         }
@@ -66,7 +66,7 @@ public class GurobiAssignmentSolver extends GurobiColoringBase
         //each node must have a color
         for (int i = 0; i < n1; i++) {
             GRBLinExpr sum = new GRBLinExpr();
-            for (int c = 0; c < k; c++) {
+            for (int c = 0; c < p; c++) {
                 sum.addTerm(1, x[i][c]);
             }
             model.addConstr(sum, GRB.EQUAL, 1, "color_" + i);
@@ -79,7 +79,7 @@ public class GurobiAssignmentSolver extends GurobiColoringBase
                 int u = it.next();
                 if (v < u) {
                     int ui = graph.indexOf(u);
-                    for (int c = 0; c < k; c++) {
+                    for (int c = 0; c < p; c++) {
                         GRBLinExpr sum = new GRBLinExpr();
                         sum.addTerm(1, x[ui][c]);
                         sum.addTerm(1, x[vi][c]);
@@ -92,7 +92,7 @@ public class GurobiAssignmentSolver extends GurobiColoringBase
         //fake nodes are all connected with each other
         for (int u = n; u < n1 - 1; u++) {
             for (int v = u + 1; v < n1; v++) {
-                for (int c = 0; c < k; c++) {
+                for (int c = 0; c < p; c++) {
                     GRBLinExpr sum = new GRBLinExpr();
                     sum.addTerm(1, x[u][c]);
                     sum.addTerm(1, x[v][c]);
@@ -102,12 +102,12 @@ public class GurobiAssignmentSolver extends GurobiColoringBase
         }
 
         //coloring class sizes
-        for (int c = 0; c < k; c++) {
+        for (int c = 0; c < p; c++) {
             GRBLinExpr sum = new GRBLinExpr();
             for (int u = 0; u < n1; u++) {
                 sum.addTerm(1, x[u][c]);
             }
-            model.addConstr(sum, GRB.EQUAL, n1 / k, "size_eq_" + c);
+            model.addConstr(sum, GRB.EQUAL, n1 / p, "size_eq_" + c);
         }
 
         //symmetry breaking        
@@ -128,7 +128,7 @@ public class GurobiAssignmentSolver extends GurobiColoringBase
             if (q.size() < 3) {
                 continue;
             }
-            for (int c = 0; c < k; c++) {
+            for (int c = 0; c < p; c++) {
                 GRBLinExpr sum = new GRBLinExpr();
                 for (int u : q.vertices()) {
                     sum.addTerm(1, x[graph.indexOf(u)][c]);
@@ -159,7 +159,7 @@ public class GurobiAssignmentSolver extends GurobiColoringBase
                     //ci must be smaller than cj (or equal)
                     GRBLinExpr sumi = new GRBLinExpr();
                     GRBLinExpr sumj = new GRBLinExpr();
-                    for (int c = 0; c < k; c++) {
+                    for (int c = 0; c < p; c++) {
                         sumi.addTerm(1, x[i][c]);
                         sumj.addTerm(1, x[j][c]);
                     }

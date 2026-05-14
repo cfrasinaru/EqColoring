@@ -243,3 +243,36 @@
   "lowerBound" : 0,
   "upperBound" : 0
 }
+
+{
+  "instanceName" : "DSJC250.5",
+  "numVertices" : 250,
+  "numEdges" : 15668,
+  "density" : 0.5,
+  "knownLowerBound" : 26,
+  "knownUpperBound" : 29,
+  "coloringNumber" : 26,
+  "timeLimit" : 1800000,
+  "startTime" : "2026-04-29 09:22:34",
+  "endTime" : "2026-04-29 09:52:37",
+  "totalTime" : 1802981,
+  "initialLowerBound" : 26,
+  "initialUpperBound" : 26,
+  "maxCliqueSize" : 11,
+  "presolveTime" : 109,
+  "results" : [ {
+    "numColors" : 26,
+    "stableSetCount" : 0,
+    "presolveTime" : 280,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TIMEOUT"
+  } ],
+  "successResults" : 0,
+  "totalResults" : 1,
+  "avgSolveTime" : 0,
+  "maxSolveTime" : 0,
+  "lowerBound" : 26,
+  "upperBound" : 26
+}

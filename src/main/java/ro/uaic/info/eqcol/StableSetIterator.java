@@ -19,6 +19,7 @@ package ro.uaic.info.eqcol;
 import java.util.ArrayDeque;
 import java.util.Deque;
 import java.util.NoSuchElementException;
+import java.util.concurrent.CancellationException;
 import java.util.concurrent.atomic.AtomicBoolean;
 import java.util.stream.IntStream;
 import org.graph4j.Graph;
@@ -158,10 +159,28 @@ public class StableSetIterator extends SimpleGraphAlgorithm {
         return true;
     }
 
+    /**
+     * Returns the shared stop flag used to control the execution of the
+     * algorithm.
+     * <p>
+     * The flag is monitored inside the algorithm's main loop. When another
+     * thread sets this flag to {@code true}, the algorithm terminates.
+     *
+     * @return the AtomicBoolean stop flag (thread-safe)
+     */
     public AtomicBoolean getStopFlag() {
         return stopFlag;
     }
 
+    /**
+     * Sets the stop flag used to control the execution of the algorithm.
+     * <p>
+     * This allows an external thread to provide a shared {@link AtomicBoolean}
+     * instance. When that flag is set to {@code true}, the running algorithm
+     * will stop.
+     *
+     * @param stopFlag the AtomicBoolean instance shared between threads
+     */
     public void setStopFlag(AtomicBoolean stopFlag) {
         this.stopFlag = stopFlag;
     }

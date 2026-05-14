@@ -34,10 +34,10 @@ public class Main {
     }
 
     private void demo() {
-        long timeLimit = 60 * 60 * 1000;
+        long timeLimit = 1 * 60 * 60 * 1000;
         var dataset = new Dataset();
 
-        String name = "C2000.5";
+        String name = "DSJC500.9";
         var instance = dataset.getInstance(name);
         var graph = instance.getGraph();
 
@@ -51,7 +51,7 @@ public class Main {
         System.out.println("symmetries\t: " + countSymmetries(graph));
 
         System.out.println("-------------------------------------------------");
-        var alg = new EqColoringSolver(instance, 183, 183, timeLimit);
+        var alg = new EqColoringSolver(instance, 124, 124, timeLimit);
         alg.setOutputEnabled(true);
         run(alg);
         var results = alg.getInstanceResults();
@@ -67,7 +67,7 @@ public class Main {
             col.checkProper();
             col.checkEquitable();
         } else {
-            System.out.println("No solution...");
+            System.out.println("No solution.");
         }
         System.out.println((System.currentTimeMillis() - t0) + " ms");
     }

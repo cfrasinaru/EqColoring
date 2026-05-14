@@ -6,10 +6,7 @@ if (length(ylim)==0) {
   ylim = range(data$SetCoveringTime, data$AssignmentTime, na.rm = TRUE)
 }
 
-#options(scipen=999)
-#bltr
-#par(oma=c(0,0,0,0))
-par(mar = c(4, 4, 1, 0.5))  
+par(mar = c(3, 3, 1, 0.5), mgp = c(1.8, 0.7, 0))
 
 plot(data$NumVertices, data$SetCoveringTime, type = "o", pch = 0, lty = 1,
   xlab = xlab, ylab = ylab, cex.lab = 0.8, 
@@ -27,5 +24,4 @@ pch <- append(pch, 1, after = length(pch))
 legend("topleft", c("SetCovering", "Assignment"), cex = 0.8, pch = pch, lty = 1);
 title(main = title, cex.main = 0.8)
 
-#dev.off()
 }

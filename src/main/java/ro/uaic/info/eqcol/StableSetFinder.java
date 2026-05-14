@@ -27,9 +27,11 @@ import java.util.concurrent.atomic.AtomicBoolean;
 import java.util.stream.IntStream;
 import org.graph4j.Graph;
 import org.graph4j.SimpleGraphAlgorithm;
+import org.graph4j.clique.MaximalCliqueFinder;
 import org.graph4j.exceptions.TimeLimitExceededException;
 import org.graph4j.util.IntArrays;
 import org.graph4j.util.StableSet;
+import org.graph4j.util.VertexSet;
 
 /**
  *
@@ -41,18 +43,34 @@ public class StableSetFinder extends SimpleGraphAlgorithm {
     private final long timeLimit;
     private final AtomicBoolean stopFlag = new AtomicBoolean();
     private StableSet solution;
+    private VertexSet startVertices;
+    private final int[] degreeOrder;
 
     public StableSetFinder(Graph graph, int size, long timeLimit) {
+        this(graph, size, null, timeLimit);
+    }
+
+    public StableSetFinder(Graph graph, int size, VertexSet startVertices, long timeLimit) {
         super(graph);
         this.size = size;
+        this.startVertices = startVertices;
         this.timeLimit = timeLimit;
+        int[] deg = graph.degrees();
+        this.degreeOrder = IntStream.range(0, graph.numVertices())
+                .boxed()
+                .sorted((i, j) -> deg[i] - deg[j])
+                .mapToInt(Integer::intValue)
+                .toArray();
     }
 
     public StableSet find() {
         int threads = Runtime.getRuntime().availableProcessors();
         ExecutorService executor = Executors.newFixedThreadPool(threads);
         List<IteratorTask> tasks = new ArrayList<>();
-        for (int v : graph.vertices()) {
+        if (startVertices == null) {
+            startVertices = new MaximalCliqueFinder(graph).getMaximalClique();
+        }
+        for (int v : startVertices) {
             tasks.add(new IteratorTask(v));
         }
         try {
@@ -86,8 +104,9 @@ public class StableSetFinder extends SimpleGraphAlgorithm {
 
         @Override
         public StableSet call() {
-            int[] order = IntArrays.shuffle(IntStream.rangeClosed(1, graph.numVertices()).toArray());
-            order[graph.indexOf(startVertex)] = 0;
+            //int[] order = IntArrays.shuffle(IntStream.range(0, graph.numVertices()).toArray());
+            int[] order = IntArrays.copyOf(degreeOrder);
+            order[graph.indexOf(startVertex)] = -1;
 
             var it = new StableSetIterator(graph, size, size, order, 0);
             it.setStopFlag(stopFlag);

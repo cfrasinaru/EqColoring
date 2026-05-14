@@ -2657,3 +2657,37 @@
   "upperBound" : 528
 }
 
+
+
+{
+  "instanceName" : "C2000.9",
+  "numVertices" : 2000,
+  "numEdges" : 1799532,
+  "density" : 0.9,
+  "knownLowerBound" : 45,
+  "knownUpperBound" : 468,
+  "coloringNumber" : 0,
+  "timeLimit" : 3600000,
+  "startTime" : "2026-05-01 05:07:39",
+  "endTime" : "2026-05-01 06:08:46",
+  "totalTime" : 3666726,
+  "initialLowerBound" : 390,
+  "initialUpperBound" : 390,
+  "maxCliqueSize" : 62,
+  "presolveTime" : 46666,
+  "results" : [ {
+    "numColors" : 390,
+    "stableSetCount" : 0,
+    "presolveTime" : 18673,
+    "solveTime" : 0,
+    "coloring" : null,
+    "colorClasses" : null,
+    "status" : "TIMEOUT"
+  } ],
+  "successResults" : 0,
+  "totalResults" : 1,
+  "avgSolveTime" : 0,
+  "maxSolveTime" : 0,
+  "lowerBound" : 0,
+  "upperBound" : 0
+}
